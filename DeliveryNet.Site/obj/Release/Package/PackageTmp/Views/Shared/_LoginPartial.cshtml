@@ -1,7 +1,0 @@
-﻿@model Delivery.ViewModels.Shared.LayoutViewModel
-
-<ul class="login-block pull-right">
-    <li class="register">@Html.ActionLink("Регистрация", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
-    <li class="dashboard"><a href="@string.Format("http://{0}", Model.CabinetLink)" id="dashboardLink">Кабинет</a>
-</li>
-</ul>
