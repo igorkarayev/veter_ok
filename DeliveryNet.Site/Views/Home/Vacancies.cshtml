@@ -1,0 +1,15 @@
+﻿@model Delivery.ViewModels.Home.VacanciesViewModel 
+@{
+    ViewBag.Title = string.Format("{0}", Model.PageInfo.PageTitle);
+}
+<div class="breadcrumbs">
+    <span class="current-page">@Model.PageInfo.PageTitle</span>
+</div>
+<div>
+    @Html.Raw(Model.PageInfo.Content)
+</div>
+<script>
+    $(function() {
+        $(".menu_vacancies").addClass("selected");
+    })
+</script>

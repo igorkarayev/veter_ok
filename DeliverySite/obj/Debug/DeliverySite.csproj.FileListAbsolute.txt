@@ -1,0 +1,411 @@
+D:\DeliverySite\DeliverySite\bin\DeliverySite.dll.config
+D:\DeliverySite\DeliverySite\bin\DeliverySite.dll
+D:\DeliverySite\DeliverySite\bin\DeliverySite.pdb
+D:\DeliverySite\DeliverySite\bin\Antlr3.Runtime.dll
+D:\DeliverySite\DeliverySite\bin\CKEditor.NET.dll
+D:\DeliverySite\DeliverySite\bin\CodeKicker.BBCode.dll
+D:\DeliverySite\DeliverySite\bin\ExcelLibrary.dll
+D:\DeliverySite\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+D:\DeliverySite\DeliverySite\bin\MySql.Data.dll
+D:\DeliverySite\DeliverySite\bin\Newtonsoft.Json.dll
+D:\DeliverySite\DeliverySite\bin\Recaptcha.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.Helpers.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.Mvc.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.Optimization.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.Razor.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.WebPages.dll
+D:\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.dll
+D:\DeliverySite\DeliverySite\bin\UnidecodeSharp.dll
+D:\DeliverySite\DeliverySite\bin\WebGrease.dll
+D:\DeliverySite\DeliverySite\bin\Antlr3.Runtime.pdb
+D:\DeliverySite\DeliverySite\bin\Newtonsoft.Json.xml
+D:\DeliverySite\DeliverySite\bin\Recaptcha.pdb
+D:\DeliverySite\DeliverySite\bin\System.Web.Helpers.xml
+D:\DeliverySite\DeliverySite\bin\System.Web.Mvc.xml
+D:\DeliverySite\DeliverySite\bin\System.Web.Optimization.xml
+D:\DeliverySite\DeliverySite\bin\System.Web.Razor.xml
+D:\DeliverySite\DeliverySite\bin\System.Web.WebPages.xml
+D:\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+D:\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.xml
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csprojResolveAssemblyReference.cache
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.Cache
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.dll
+D:\DeliverySite\DeliverySite\obj\Debug\DeliverySite.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\DeliverySite.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\DeliverySite.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\DeliverySite.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Antlr3.Runtime.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\CKEditor.NET.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\CodeKicker.BBCode.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\ExcelLibrary.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\MySql.Data.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Newtonsoft.Json.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Recaptcha.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Helpers.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Mvc.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Optimization.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Razor.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.WebPages.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\UnidecodeSharp.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\WebGrease.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Antlr3.Runtime.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Newtonsoft.Json.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\Recaptcha.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Helpers.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Mvc.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Optimization.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.Razor.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.WebPages.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csprojResolveAssemblyReference.cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.Cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.CoreCompileInputs.cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliverySite\obj\Debug\DeliverySite.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\DeliverySite.dll.config
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\DeliverySite.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\DeliverySite.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Antlr3.Runtime.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Calabonga.Xml.Exports.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\CaptchaMvc.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\CKEditor.NET.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ClosedXML.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\CodeKicker.BBCode.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\DocumentFormat.OpenXml.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelDataReader.DataSet.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelDataReader.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelLibrary.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelNumberFormat.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\FastMember.Signed.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\GemBox.Spreadsheet.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\MySql.Data.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Newtonsoft.Json.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Recaptcha.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Recaptcha.Web.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Helpers.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Mvc.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Optimization.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Razor.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.WebPages.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\UnidecodeSharp.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\WebGrease.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Antlr3.Runtime.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\CaptchaMvc.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\CaptchaMvc.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ClosedXML.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ClosedXML.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\DocumentFormat.OpenXml.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelDataReader.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelDataReader.DataSet.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\ExcelNumberFormat.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\GemBox.Spreadsheet.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Newtonsoft.Json.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\Recaptcha.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Helpers.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Mvc.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Optimization.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.Razor.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.WebPages.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.xml
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csprojResolveAssemblyReference.cache
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.Cache
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.CoreCompileInputs.cache
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.dll
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliverySite\obj\Debug\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\DeliverySite.dll.config
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Antlr3.Runtime.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Calabonga.Xml.Exports.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\CaptchaMvc.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\CKEditor.NET.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ClosedXML.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\CodeKicker.BBCode.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\DocumentFormat.OpenXml.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelDataReader.DataSet.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelDataReader.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelLibrary.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelNumberFormat.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\FastMember.Signed.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\GemBox.Spreadsheet.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\MySql.Data.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Newtonsoft.Json.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Recaptcha.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Recaptcha.Web.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Helpers.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Mvc.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Optimization.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Razor.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.WebPages.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\UnidecodeSharp.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\WebGrease.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Antlr3.Runtime.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\CaptchaMvc.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\CaptchaMvc.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ClosedXML.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ClosedXML.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\DocumentFormat.OpenXml.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelDataReader.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelDataReader.DataSet.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\ExcelNumberFormat.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\GemBox.Spreadsheet.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Newtonsoft.Json.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\Recaptcha.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Helpers.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Mvc.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Optimization.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.Razor.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.WebPages.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\System.Web.WebPages.Razor.xml
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csproj.CopyComplete
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\obj\Debug\DeliverySite.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\EPPlus.dll
+C:\Users\roman\source\repos\DeliverySite\DeliverySite\bin\EPPlus.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\DeliverySite.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Antlr3.Runtime.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Calabonga.Xml.Exports.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\CaptchaMvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\CKEditor.NET.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ClosedXML.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\CodeKicker.BBCode.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\DocumentFormat.OpenXml.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\EPPlus.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.DataSet.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelLibrary.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelNumberFormat.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\FastMember.Signed.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\GemBox.Spreadsheet.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\MySql.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Newtonsoft.Json.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Recaptcha.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Recaptcha.Web.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Helpers.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Mvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Optimization.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\UnidecodeSharp.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\WebGrease.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Antlr3.Runtime.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\CaptchaMvc.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\CaptchaMvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ClosedXML.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ClosedXML.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\DocumentFormat.OpenXml.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\EPPlus.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.DataSet.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\ExcelNumberFormat.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\GemBox.Spreadsheet.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Newtonsoft.Json.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\Recaptcha.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Helpers.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Mvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Optimization.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csproj.CopyComplete
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\DeliverySite.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Antlr3.Runtime.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Calabonga.Xml.Exports.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\CaptchaMvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\CKEditor.NET.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ClosedXML.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\CodeKicker.BBCode.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\DocumentFormat.OpenXml.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\EPPlus.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelDataReader.DataSet.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelDataReader.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelLibrary.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelNumberFormat.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\FastMember.Signed.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\GemBox.Spreadsheet.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\MySql.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Newtonsoft.Json.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Recaptcha.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Recaptcha.Web.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Helpers.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Mvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Optimization.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.WebPages.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.WebPages.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\UnidecodeSharp.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\WebGrease.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Antlr3.Runtime.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\CaptchaMvc.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\CaptchaMvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ClosedXML.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ClosedXML.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\DocumentFormat.OpenXml.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\EPPlus.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelDataReader.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelDataReader.DataSet.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\ExcelNumberFormat.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\GemBox.Spreadsheet.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Newtonsoft.Json.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\Recaptcha.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Helpers.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Mvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Optimization.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.WebPages.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\bin\System.Web.WebPages.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.csproj.CopyComplete
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliverySite\obj\Debug\DeliverySite.csprojAssemblyReference.cache
+D:\DeliverySite(26.07)\DeliverySite\bin\DeliverySite.dll.config
+D:\DeliverySite(26.07)\DeliverySite\bin\DeliverySite.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\DeliverySite.pdb
+D:\DeliverySite(26.07)\DeliverySite\bin\Antlr3.Runtime.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\Calabonga.Xml.Exports.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\CaptchaMvc.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\CKEditor.NET.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\ClosedXML.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\CodeKicker.BBCode.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\DocumentFormat.OpenXml.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\EPPlus.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.DataSet.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelLibrary.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelNumberFormat.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\FastMember.Signed.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\GemBox.Spreadsheet.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\ICSharpCode.SharpZipLib.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\Microsoft.Web.Infrastructure.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\MySql.Data.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\Newtonsoft.Json.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\Recaptcha.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\Recaptcha.Web.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Helpers.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Mvc.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Optimization.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Razor.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Deployment.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Razor.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\UnidecodeSharp.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\WebGrease.dll
+D:\DeliverySite(26.07)\DeliverySite\bin\Antlr3.Runtime.pdb
+D:\DeliverySite(26.07)\DeliverySite\bin\CaptchaMvc.pdb
+D:\DeliverySite(26.07)\DeliverySite\bin\CaptchaMvc.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\ClosedXML.pdb
+D:\DeliverySite(26.07)\DeliverySite\bin\ClosedXML.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\DocumentFormat.OpenXml.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\EPPlus.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelDataReader.DataSet.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\ExcelNumberFormat.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\GemBox.Spreadsheet.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\Newtonsoft.Json.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\Recaptcha.pdb
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Helpers.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Mvc.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Optimization.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.Razor.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Deployment.xml
+D:\DeliverySite(26.07)\DeliverySite\bin\System.Web.WebPages.Razor.xml
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csprojResolveAssemblyReference.cache
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.ClientStatusesResources.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.NewsTypesResources.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.PagesTitles.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.PrintResources.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResources.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.TicketStatusesResourcesMale.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.UserProfileStatusesResources.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.Resources.UserStatusesResources.resources
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csproj.GenerateResource.Cache
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.dll
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.pdb
+D:\DeliverySite(26.07)\DeliverySite\obj\Debug\DeliverySite.csproj.CoreCompileInputs.cache

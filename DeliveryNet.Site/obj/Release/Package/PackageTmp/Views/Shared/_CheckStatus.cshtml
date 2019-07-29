@@ -1,0 +1,12 @@
+﻿@model Delivery.ViewModels.Home.CheckStatus
+<h4>Отследить доставку</h4>
+@using (Html.BeginForm("CheckStatus", "Home", FormMethod.Post, new { @class = "form-horizontal check-delivery-status", role = "form" }))
+{
+    <div class="id">
+        @Html.EditorFor(m => m.id, new { htmlAttributes = new { placeholder = "ID посылки" } })
+    </div> 
+
+    <div class="submit">
+        <input class="button" type="submit" value="Поиск" />
+    </div>
+}

@@ -1,0 +1,41 @@
+﻿@using DeliveryNet.Data
+@model Delivery.ViewModels.Home.CheckTicketStatusModel
+
+<h4>Отслеживание заявки</h4>
+
+    <div class="border1" style="margin-top: 10px;">
+
+    </div>
+    <div>
+        <div class="checkCity">
+            <input class="inputSite" value="@Model.Status" style="width: 100%;" id="IdLeft" type="text" placeholder="ID заявки" />
+        </div>
+        <div class="checkStatus">
+            <input id="buttonCheckStatus" class="redButton" type="button" style="padding: 0px 30px;" value="Проверить" />            
+        </div>
+        <p style="padding-top: 15px; padding-left: 10px; font-size: 22px; font-weight: bold; color: #03a0cd;" id="checkStatusStatus"></p>
+        <p style="padding-left: 10px; font-size: 18px; font-weight: bold; color: #03a0cd;" id="checkStatusOvDate"></p>
+    </div>
+
+
+<script>
+    $(document).ready(function () {
+        $("#buttonCheckStatus").click(function () {
+            var c = document.getElementById('IdLeft');
+            $.ajax({
+
+                type: "POST",
+                url: "@Url.Action("GetStatus", "Home")",
+
+                dataType: "json",
+                data: { id: document.getElementById('IdLeft').value },
+
+                success: function (responsedata) {
+                    document.getElementById('checkStatusStatus').innerHTML = responsedata.Status;
+                    document.getElementById('checkStatusOvDate').innerHTML = responsedata.OvDate;
+                }
+            })
+        });
+    })
+</script>
+

@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ManagerDefaultTitle" xml:space="preserve">
+    <value>Кабинет сотрудника</value>
+  </data>
+  <data name="ManagerDriverViewTitle" xml:space="preserve">
+    <value>Водитель</value>
+  </data>
+  <data name="ManagerMoneyViewTitle" xml:space="preserve">
+    <value>Приемка</value>
+  </data>
+  <data name="ManagerUserTicketEditTitle" xml:space="preserve">
+    <value>Редактирование заявки</value>
+  </data>
+  <data name="ManagerUserTicketViewTitle" xml:space="preserve">
+    <value>Заявки</value>
+  </data>
+  <data name="UserDefaultTitle" xml:space="preserve">
+    <value>Ваш кабинет</value>
+  </data>
+  <data name="UserFAQ" xml:space="preserve">
+    <value>Инструкция</value>
+  </data>
+  <data name="UserProfileCreateTitle" xml:space="preserve">
+    <value>Создание профиля</value>
+  </data>
+  <data name="UserProfileEditTitle" xml:space="preserve">
+    <value>Редактирование профиля</value>
+  </data>
+  <data name="UserProfilesViewTitle" xml:space="preserve">
+    <value>Ваши профили</value>
+  </data>
+  <data name="UserTicketEditTitle" xml:space="preserve">
+    <value>Редактирование заявки</value>
+  </data>
+  <data name="UserTicketViewTitle" xml:space="preserve">
+    <value>Просмотр заявки</value>
+  </data>
+  <data name="ManagerIssuanceViewTitle" xml:space="preserve">
+    <value>Заявки к выдаче</value>
+  </data>
+  <data name="UserAccountEditTitle" xml:space="preserve">
+    <value>Изменение профиля</value>
+  </data>
+  <data name="ManagerUsersDiscount" xml:space="preserve">
+    <value>Скидки клиентов</value>
+  </data>
+  <data name="ManagerIssuanceListsEditTitle" xml:space="preserve">
+    <value>Редактирование рассчетного листа #{0}</value>
+  </data>
+  <data name="ManagerIssuanceListsViewTitle" xml:space="preserve">
+    <value>Рассчетные листы</value>
+  </data>
+  <data name="ManagerIssuanceListViewTitle" xml:space="preserve">
+    <value>Рассчетный лист #{0}</value>
+  </data>
+  <data name="ManagerNewIssuanceViewTitle" xml:space="preserve">
+    <value>Рассчетный лист</value>
+  </data>
+  <data name="ManagerIssuanceListsCreateTitle" xml:space="preserve">
+    <value>Создание рассчетного листа</value>
+  </data>
+  <data name="ManagerReportsViewTitle" xml:space="preserve">
+    <value>Архив документов</value>
+  </data>
+  <data name="ManagerReportsEditTitle" xml:space="preserve">
+    <value>Редактирование документов</value>
+  </data>
+  <data name="ManagerTitlesCreateTitle" xml:space="preserve">
+    <value>Создание наименования</value>
+  </data>
+  <data name="ManagerTitlesEditTitle" xml:space="preserve">
+    <value>Редактирование наименования</value>
+  </data>
+  <data name="ManagerTitlesViewTitle" xml:space="preserve">
+    <value>Наименования</value>
+  </data>
+  <data name="ManagerClientCreateTitle" xml:space="preserve">
+    <value>Создание клиента</value>
+  </data>
+  <data name="ManagerClientEditTitle" xml:space="preserve">
+    <value>Редактирование клиента</value>
+  </data>
+  <data name="ManagerClientViewTitle" xml:space="preserve">
+    <value>Клиенты</value>
+  </data>
+  <data name="ManagerMoneyDriverViewTitle" xml:space="preserve">
+    <value>Контроль водителя</value>
+  </data>
+  <data name="ManagerCityCreate" xml:space="preserve">
+    <value>Создание нас. пункта</value>
+  </data>
+  <data name="ManagerCityEdit" xml:space="preserve">
+    <value>Редактирование нас. пункта</value>
+  </data>
+  <data name="ManagerCityView" xml:space="preserve">
+    <value>Список нас. пунктов</value>
+  </data>
+  <data name="ManagerEmailNotificationEdit" xml:space="preserve">
+    <value>Редактирование электронного сообщения</value>
+  </data>
+  <data name="ManagerEmailNotificationView" xml:space="preserve">
+    <value>Список электронных сообщений</value>
+  </data>
+  <data name="ManagerErrorsLogEdit" xml:space="preserve">
+    <value>Просмотр ошибки</value>
+  </data>
+  <data name="ManagerErrorsLogView" xml:space="preserve">
+    <value>Лог системных ошибок</value>
+  </data>
+  <data name="ManagerLogsView" xml:space="preserve">
+    <value>Лог действий пользователей</value>
+  </data>
+  <data name="ManagerNewsCreate" xml:space="preserve">
+    <value>Создание новости</value>
+  </data>
+  <data name="ManagerNewsEdit" xml:space="preserve">
+    <value>Редатирование новости</value>
+  </data>
+  <data name="ManagerNewsView" xml:space="preserve">
+    <value>Список новостей</value>
+  </data>
+  <data name="ManagerNotificationEdit" xml:space="preserve">
+    <value>Редактирование уведомления или ошибоки</value>
+  </data>
+  <data name="ManagerNotificationView" xml:space="preserve">
+    <value>Список уведомлений и ошибок сайта</value>
+  </data>
+  <data name="ManagerPagesEdit" xml:space="preserve">
+    <value>Редактирование страницы</value>
+  </data>
+  <data name="ManagerPagesView" xml:space="preserve">
+    <value>Список страниц с контентом</value>
+  </data>
+  <data name="ManagerTracksCreate" xml:space="preserve">
+    <value>Добавление направления</value>
+  </data>
+  <data name="ManagerTracksEdit" xml:space="preserve">
+    <value>Редактирование направления</value>
+  </data>
+  <data name="ManagerTracksView" xml:space="preserve">
+    <value>Список направлений</value>
+  </data>
+  <data name="ManagerBackendEdit" xml:space="preserve">
+    <value>Изменение конфигураций</value>
+  </data>
+  <data name="ManagerBackendView" xml:space="preserve">
+    <value>Конфигурации</value>
+  </data>
+  <data name="ManagerChangePassword" xml:space="preserve">
+    <value>Изменение паролей пользователей</value>
+  </data>
+  <data name="ManagerDriversCreate" xml:space="preserve">
+    <value>Добавление водителя</value>
+  </data>
+  <data name="ManagerDriversEdit" xml:space="preserve">
+    <value>Редактирование водиля</value>
+  </data>
+  <data name="ManagerDriversView" xml:space="preserve">
+    <value>Список водителей</value>
+  </data>
+  <data name="ManagerManagerCreate" xml:space="preserve">
+    <value>Создание сотрудника</value>
+  </data>
+  <data name="ManagerManagerEdit" xml:space="preserve">
+    <value>Редактирование сотрудника</value>
+  </data>
+  <data name="ManagerManagersView" xml:space="preserve">
+    <value>Список сотрудников</value>
+  </data>
+  <data name="ManagerMoneyDeliveredView" xml:space="preserve">
+    <value>Сумма заявок "СТАТУС"</value>
+  </data>
+  <data name="ManagerMoneyDeliveryView" xml:space="preserve">
+    <value>Сумма за "За услугу"</value>
+  </data>
+  <data name="ManagerUserTicketByDeliveryDateView" xml:space="preserve">
+    <value>Едут завтра</value>
+  </data>
+  <data name="ManagerUserTicketByDeliveryDateViewTwo" xml:space="preserve">
+    <value>Едут послезавтра и далее</value>
+  </data>
+  <data name="ManagerUserTicketNotProcessedView" xml:space="preserve">
+    <value>Необработанные заявки</value>
+  </data>
+  <data name="ManagerRolesCreate" xml:space="preserve">
+    <value>Создание роли</value>
+  </data>
+  <data name="ManagerRolesEdit" xml:space="preserve">
+    <value>Редактирование роли</value>
+  </data>
+  <data name="ManagerRolesView" xml:space="preserve">
+    <value>Список ролей</value>
+  </data>
+  <data name="UserTicketCreateTitle" xml:space="preserve">
+    <value>Создание заявки</value>
+  </data>
+  <data name="UserTicketsViewTitle" xml:space="preserve">
+    <value>Ваши заявки</value>
+  </data>
+  <data name="ManagerProfilesViewTitle" xml:space="preserve">
+    <value>Профили</value>
+  </data>
+  <data name="ManagerProfileEditTitle" xml:space="preserve">
+    <value>Редактирование профиля</value>
+  </data>
+  <data name="UserProfileViewTitle" xml:space="preserve">
+    <value>Просмотр профиля</value>
+  </data>
+  <data name="ManagerManagerView" xml:space="preserve">
+    <value>Просмотр сотрудника</value>
+  </data>
+  <data name="ManagerUserTicketViewMyTitle" xml:space="preserve">
+    <value>Заявки моих клиентов</value>
+  </data>
+  <data name="ManagerNewsFeedView" xml:space="preserve">
+    <value>Лента новостей</value>
+  </data>
+  <data name="ManagerNewsFromFeedView" xml:space="preserve">
+    <value>Просмотр новости</value>
+  </data>
+  <data name="ManagerReportsExportTitle" xml:space="preserve">
+    <value>Экспорт данных</value>
+  </data>
+  <data name="UserFeedbacksView" xml:space="preserve">
+    <value>Список обращений</value>
+  </data>
+  <data name="UserFeedbackCreate" xml:space="preserve">
+    <value>Создание обращения</value>
+  </data>
+  <data name="ManagerAnonymousMessage" xml:space="preserve">
+    <value>Отправить анонимное сообщение</value>
+  </data>
+  <data name="ManagerCarEdit" xml:space="preserve">
+    <value>Редактирование автомобиля</value>
+  </data>
+  <data name="ManagerCarsView" xml:space="preserve">
+    <value>Автомобили</value>
+  </data>
+  <data name="ManagerCarView" xml:space="preserve">
+    <value>Просмотр автомобиля</value>
+  </data>
+  <data name="ManagerCarCreate" xml:space="preserve">
+    <value>Создание автомобиля</value>
+  </data>
+  <data name="ManagerUserTicketByDeliveryOnMinsk" xml:space="preserve">
+    <value>Заявки Минск</value>
+  </data>
+  <data name="UserFeedbackView" xml:space="preserve">
+    <value>Просмотр обращения</value>
+  </data>
+  <data name="ManagerDistrictEdit" xml:space="preserve">
+    <value>Редактирование района</value>
+  </data>
+  <data name="ManagerDistrictsView" xml:space="preserve">
+    <value>Районы</value>
+  </data>
+  <data name="ManagerApiLogsView" xml:space="preserve">
+    <value>Лог запросов к API</value>
+  </data>
+  <data name="ManagerCalculationView" xml:space="preserve">
+    <value>Расчет</value>
+  </data>
+  <data name="ManagerCategoryEditTitle" xml:space="preserve">
+    <value>Редактирование категории</value>
+  </data>
+  <data name="ManagerCategoryViewTitle" xml:space="preserve">
+    <value>Категории</value>
+  </data>
+  <data name="ManagerCategoryCreateTitle" xml:space="preserve">
+    <value>Создание категории</value>
+  </data>
+  <data name="ManagerUserToSection" xml:space="preserve">
+    <value>Добавление/удаление категорий клиента</value>
+  </data>
+  <data name="ManagerWarehouseCreate" xml:space="preserve">
+    <value>Создание склада</value>
+  </data>
+  <data name="ManagerWarehouseEdit" xml:space="preserve">
+    <value>Редактирование склада</value>
+  </data>
+  <data name="ManagerWarehousesView" xml:space="preserve">
+    <value>Просмотр складов</value>
+  </data>
+  <data name="ManagerSendComProp" xml:space="preserve">
+    <value>Отправка КП</value>
+  </data>
+  <data name="ManagerProviderCreate" xml:space="preserve">
+    <value>Создание поставщика</value>
+  </data>
+  <data name="ManagerProviderEdit" xml:space="preserve">
+    <value>Редактирование поставщика</value>
+  </data>
+  <data name="ManagerProvidersView" xml:space="preserve">
+    <value>База поставщиков</value>
+  </data>
+</root>

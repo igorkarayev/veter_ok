@@ -1,0 +1,15 @@
+﻿@model Delivery.ViewModels.Account.AccountViewModel
+@{
+    ViewBag.Title = (Model.PageInfo != null) ? Model.PageInfo.PageTitle : "";
+}
+
+@if (Model.PageInfo != null)
+{
+    @Html.Raw(Model.PageInfo.Content)
+}
+
+<script>
+    $(function() {
+        $(".register a").addClass("selected");
+    })
+</script>

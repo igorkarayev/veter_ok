@@ -1,0 +1,54 @@
+﻿@using CaptchaMvc.HtmlHelpers
+@using Delivery.Controllers;
+@using reCAPTCHA.MVC
+
+@model DeliveryNet.Data.Customer
+
+<div>
+    <h4>
+        Регистрация
+    </h4>
+    <div class="border2" style="">
+
+    </div>
+</div>
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { role = "form" }))
+{
+    @Html.ValidationSummary(true)
+    <div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.EditorFor(model => model.Login, new { htmlAttributes = new { placeholder = "Логин", @class = "registrationInput" } })
+            @Html.ValidationMessageFor(model => model.Login)
+        </div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { placeholder = "Пароль", @class = "registrationInput" } })
+            @Html.ValidationMessageFor(model => model.Password)
+        </div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { placeholder = "Телефон", @class = "registrationInput" } })
+            @Html.ValidationMessageFor(model => model.Phone)
+        </div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { placeholder = "E-mail", @class = "registrationInput" } })
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.EditorFor(model => model.Family, new { htmlAttributes = new { placeholder = "Фамилия", @class = "registrationInput" } })
+            @Html.ValidationMessageFor(model => model.Family)
+        </div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { placeholder = "Имя", @class = "registrationInput" } })
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+        <div style="display: none; margin: 10px 0px 10px 0px;">
+            @Html.Captcha(3)
+        </div>
+        <div style="margin: 10px 0px 10px 0px">
+            @Html.Recaptcha()
+            @Html.ValidationMessage("ReCaptcha")
+        </div>
+        <div style="padding-top: 7px;">
+            <input class="redButton" style="padding: 0px 20px;" type="submit" value="Регистрация" />
+        </div>
+    </div>}
+

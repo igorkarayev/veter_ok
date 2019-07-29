@@ -1,0 +1,56 @@
+<%@ Master Language="C#" Inherits="Delivery.UserUI.UserMasterPage" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"%>
+<%@ Import Namespace="System.Web.Optimization" %>
+<asp:Content id="GuestConten" ContentPlaceHolderID="MainContent" runat="server">
+    <script>
+        $(function () {
+            $("#content").css('overflow', 'visible');
+        });
+    </script>
+<%@ Register TagName="RightColumn" TagPrefix="grb" src="~/UserUI/Controls/RightColumn.ascx" %>
+	<div id="rightcolManager">
+		<div class="rightcol">
+			<grb:RightColumn id="RightColumn" runat="server" />
+		</div>
+	</div>
+	<div id="centercolManager">
+		<div class="centercol">
+			<asp:ContentPlaceHolder ID="MainContent" runat="server" />
+		</div>
+	</div>
+
+    <div id="unreadNews" style="display: none;">
+        <div id="unreadNews-close">х</div>
+        <div id="unreadNews-content">
+            <div class="popupNotReadNews-main-title">У вас есть непрочитанные новости (<asp:Label runat="server" ID="lblUnreadNewsCount"></asp:Label>)</div>
+            <asp:ListView ID="lvNotReadNews" runat="server">
+                <ItemTemplate>
+                    <div class="popupNotReadNews">
+                        <div class="popupNotReadNews-date"><%# Convert.ToDateTime(Eval("CreateDate").ToString()).ToString("dd.MM.yyyy")%></div>
+                        <div class="popupNotReadNews-title">
+                            <a href="<%# String.Format("NewsFromFeedView.aspx?title={0}", Eval("TitleUrl").ToString()) %>">
+                                <%# Eval("Title")%>
+                            </a>
+                        </div>
+                    </div>
+                </ItemTemplate>
+                <LayoutTemplate>
+                    <div id="ItemPlaceholder" runat="server"> </div>
+                </LayoutTemplate>
+            </asp:ListView>
+        </div>
+    </div>
+
+    <script>
+        var haveUnreadNews = <%= HaveUnreadNews %>;
+        $(function () {
+            $("#unreadNews-close").click(function () {
+                $("#unreadNews").hide();
+            });
+
+            if ((typeof unreadNewsNotDisplay === 'undefined' || unreadNewsNotDisplay != true) &&  haveUnreadNews) {
+                $("#unreadNews").show();
+            }
+        });
+    </script>
+
+</asp:Content>

@@ -1,0 +1,35 @@
+﻿@model DeliveryNet.Data.Customer
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal register-index", role = "form" }))
+{
+    <div class="all-height col-lg-8 col-xs-12 col-lg-offset-2">
+        <div id="login-info" class="col-md-6 col-xs-12 col-md-height">
+            @Html.LabelFor(model => model.Login)
+            @Html.EditorFor(model => model.Login)
+            @Html.ValidationMessageFor(model => model.Login)
+
+            @Html.LabelFor(model => model.Password)
+            @Html.EditorFor(model => model.Password)
+            @Html.ValidationMessageFor(model => model.Password)
+
+            @Html.LabelFor(model => model.Phone)
+            @Html.EditorFor(model => model.Phone)
+            @Html.ValidationMessageFor(model => model.Phone)
+        </div>
+        <div id="personal-info" class="col-md-6 col-xs-12 col-md-height">
+            @Html.LabelFor(model => model.Email)
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+
+            @Html.LabelFor(model => model.Family)
+            @Html.EditorFor(model => model.Family)
+            @Html.ValidationMessageFor(model => model.Family)
+
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+    </div>
+    <div class="col-xs-12 col-lg-8 col-lg-offset-2">
+        <input class="pull-right button" type="submit" value="Регистрация" />
+    </div>
+}

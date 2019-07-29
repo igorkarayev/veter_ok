@@ -1,0 +1,263 @@
+﻿@using DeliveryNet.Data
+@model Delivery.ViewModels.Home.CityViewModel 
+@{
+    ViewBag.Title = string.Format("{0}", Model.PageInfo.PageTitle);
+}
+
+<style>
+    .ui-autocomplete {
+        max-height: 300px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+</style>
+
+<div>
+    <h4>
+        Города доставки и стоимость услуг
+    </h4>
+    <div class="border2" style="">
+
+    </div>        
+    
+    
+    <div>
+        <div style="padding: 10px 0px 10px;">
+            <span>
+                Введите наименование населенного пункта, чтобы узнать, по каким дням
+            </span>
+            <br />
+            <span>
+                осуществляется доставка
+            </span>
+        </div>
+        <div style="margin-bottom: 10px;">
+            @if (Model.Value != null)
+            {
+                <input class="inputSite" value="@Model.Value" style="width: 90%;" id="City" name="City" type="text" placeholder="Например, Витебск" />
+            }
+            @if (Model.Value == null)
+            {
+                <input class="inputSite" style="width: 90%;" id="City" name="City" type="text" placeholder="Например, Витебск" />
+            }
+            <input type="hidden" id="CityId"/>
+            <input type="hidden" id="CityRegionId" />
+            <input type="hidden" id="CityValue" />
+        </div>
+        <div style="color: #03a0cd;">
+            <span id="days1" style="visibility: hidden;">
+                дни доставки(с нашего склада): 
+            </span>
+            <span id="days">@Model.Days</span>
+            <br />
+            <span id="days2" style="visibility: hidden;">
+                срок доставки: до 2 дней
+            </span>
+        </div>
+        <div style="padding: 10px 0px 10px;">
+            <span>
+                Введите наименование или категорию товара
+            </span>
+        </div>
+        <div>
+            <input class="inputSite" style="width: 90%;" id="Goods" name="Goods" type="text" placeholder="Например, телефон"/>            
+            <input type="hidden" id="GoodsCoef" />
+            <input type="hidden" id="GoodsValue" />
+        </div>
+        <div style="padding: 10px 0px 10px;">
+            <span>
+                Введите количество товара и его оценочную стоимость в BYN
+            </span>
+        </div>
+        <div style="width: 90%;">            
+            <input class="inputSite" style="width: 25%;" step="1" min="1" type="number" id="Number" placeholder="Кол-во" value="1"/>            
+            
+            <input class="inputSite" style="width: 60%; float: right;" step="0.01" min="0" type="number" placeholder="Общая стоимость товара"/>            
+        </div>
+        <div style="display: inline-block; margin-top: 30px; float: right; margin-right: 67px;">
+            <div style="display: inline-block; max-width: 200px; vertical-align: top; margin-top: 15px;">
+                <p style="color: #03a0cd; visibility: hidden; font-size: 22px; font-weight: bold;" id="TotalCost1">
+
+                </p>                
+            </div>     
+            <div class="loading" id="loading">
+
+            </div>
+            <div style="margin-left: 20px; margin-top: 15px; display: inline-block; vertical-align: top;">
+                <input class="redButton" style="padding: 0px 20px;" type="submit" value="Рассчитать стоимость" onclick='Calculate()'/>
+            </div>            
+        </div>  
+    </div>
+</div>
+
+<script>
+
+    $(function () {
+        $(".menu_city").addClass("selected");
+    })
+
+    $(window).load(function () {
+        $("#citiesLinkText").css("color", "#03a0cd");
+        $("#citiesLinkDiv").addClass("mainMenuLiBottomBlock");
+    });
+
+    
+
+    $(document).ready(function () {
+        $(function () {
+            @if (Model.Id != null && Model.RegionId != null && Model.Value != null)
+            {
+                @: document.getElementById('CityId').value = @Model.Id;
+                @: document.getElementById('CityRegionId').value = @Model.RegionId;
+
+                @: document.getElementById('days1').style.visibility = 'visible';
+                @: document.getElementById('days2').style.visibility = 'visible';
+            }
+        })
+        $("#Number").keydown(function (event) {
+            // Разрешаем: backspace, delete, tab и escape
+            if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9 || event.keyCode == 27 ||
+                // Разрешаем: Ctrl+A
+                (event.keyCode == 65 && event.ctrlKey === true) ||
+                // Разрешаем: home, end, влево, вправо
+                (event.keyCode >= 35 && event.keyCode <= 39)) {
+                // Ничего не делаем
+                return;
+            }
+            else {
+                // Обеждаемся, что это цифра, и останавливаем событие keypress
+                if ((event.keyCode < 48 || event.keyCode > 57) && (event.keyCode < 96 || event.keyCode > 105)) {
+                    event.preventDefault();
+                }
+            }
+        });
+    });
+
+    function AppearLoading() {
+        document.getElementById('loading').style.display = 'inline-block';
+        document.getElementById('TotalCost1').style.visibility = 'hidden';
+    }
+
+    function Calculate() {
+        AppearLoading();
+
+        CityId = document.getElementById('CityId');
+        CityRegionId = document.getElementById('CityRegionId');
+        GoodsNum = document.getElementById('Number');
+        GoodsCoef = document.getElementById('GoodsCoef');
+
+        var dataToSend = {
+            Id: CityId.value,
+            RegionId: CityRegionId.value,
+            Num: GoodsNum.value,
+            Coef: GoodsCoef.value
+        };
+
+        $.ajax({
+
+            type: "POST",//or POST
+            url: "@Url.Action("Calculate", "Home")",
+
+            data: dataToSend,
+
+            success: function (responsedata) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('TotalCost1').innerHTML = responsedata;
+                document.getElementById('TotalCost1').style.visibility = 'visible';
+            }
+        })
+
+    }
+
+    $(document).ready(function () {
+        $("#City").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "@Url.Action("AutocompleteCity", "Home")",
+                    type: "POST",
+                    dataType: "json",
+                    data: { term: document.getElementById('City').value },
+                    success: function (data) {
+                        response($.map(data, function (item) {
+                            var val = item.CityName + ', ' + item.DistrictName + ' р-н, ' + item.RegionName + ' обл. (' + item.Days + ')';
+                            var valReg = val.replace(new RegExp("(" + item.Days + ")", "gi"), '<b>$1</b>');
+                            return {
+                                label: valReg,
+                                value: val,
+                                id: item.CityId,
+                                regionid: item.RegionId,
+                                monday: item.Monday,
+                                tuesday: item.Tuesday,
+                                wednesday: item.Wednesday,
+                                thursday: item.Thursday,
+                                friday: item.Friday,
+                                saturday: item.Saturday,
+                                sunday: item.Sunday,
+                                days: item.Days
+                            };
+                        }))
+                    }
+                })
+            },
+            minLength: 2,
+            open: function (e, ui) {
+                var acData = $(this).data('ui-autocomplete');
+                var keywords = ui;
+                acData
+                    .menu
+                    .element
+                    .find('li')
+                    .find('div')
+                    .each(function () {
+                        var me = $(this);
+                        me.html(me.text());
+                        me.html(me.html().replace(new RegExp("(" + acData.term + ")", "gi"), '<b>$1</b>'));
+                    });
+            },
+            close: function () { },
+            focus: function (event, ui) { },
+            select: function (event, ui) {
+                var e1 = ui.days;
+                var e2 = ui.item.days;
+                document.getElementById('days').innerHTML = ui.item.days;
+                document.getElementById('days1').style.visibility = 'visible';
+                document.getElementById('days2').style.visibility = 'visible';
+                document.getElementById('CityId').value = ui.item.id;
+                document.getElementById('CityRegionId').value = ui.item.regionid;
+            }
+        });
+
+        $("#Goods").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "@Url.Action("AutocompleteGoods", "Home")",
+                    type: "POST",
+                    dataType: "json",
+                    data: { term: document.getElementById('Goods').value },
+                    success: function (data) {
+                        response($.map(data, function (item) {
+
+                            return {
+                                label: item.Name,
+                                value: item.Name,
+                                id: item.ID,
+                                coef: item.MarginCoefficient
+                            };
+                        }))
+
+                    }
+                })
+            },
+            minLength: 2,
+            open: function () { },
+            close: function () {
+
+            },
+            focus: function (event, ui) { },
+            select: function (event, ui) {
+                document.getElementById('GoodsCoef').value = ui.item.coef;
+            }
+        });
+    })
+
+</script>

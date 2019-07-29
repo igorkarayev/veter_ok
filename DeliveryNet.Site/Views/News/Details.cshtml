@@ -1,0 +1,47 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model Delivery.ViewModels.News.DetailsViewModel
+
+<div class="news">    
+    <h4>
+        @Model.News.Title
+    </h4>       
+    <span style="color: #03a0cd; font-weight: bold; margin-top: 20px;">@Convert.ToDateTime(Model.News.CreateDate).ToString("dd.MM.yyyy")</span>
+    <div class="border2" style="margin-top: 3px;">
+
+    </div>
+    <div style="margin-bottom: 20px;">
+        <span>
+            @Html.Raw(Model.News.Body)
+        </span>
+    </div>    
+    @foreach (var news in Model.AllNews)
+    {
+        <div style="margin: 10px 0px 10px 0px">
+            <span style="font-weight: bold;">
+                @Convert.ToDateTime(news.CreateDate).ToString("dd.MM"): 
+            </span>
+            <span>
+                @news.ShortBody
+            </span>       
+        </div>         
+    }
+    <div style="margin-top: 20px;">
+        <div class="borderNews" style="display: inline-block; width: 470px;">
+
+        </div>
+        <div style="display: inline-block; margin: 0px 5px 0px 5px; vertical-align: top;">
+            <a href="~/" style="color: #c7c7c7; font-size: 12px;">
+                <span style="vertical-align: -webkit-baseline-middle;">ВЕРНУТЬСЯ</span>
+            </a>
+        </div>
+        <div class="borderNews" style="display: inline-block; width: 24px;">
+
+        </div>
+    </div>
+</div>
+<script>
+    $(function() {
+        $(".menu_index").addClass("selected");
+    })
+</script>

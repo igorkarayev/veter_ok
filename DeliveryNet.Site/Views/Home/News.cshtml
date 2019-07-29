@@ -1,0 +1,37 @@
+﻿@using PagedList
+@using PagedList.Mvc
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Delivery.ViewModels.News.StreamViewModel
+
+<h4 style="font-size: 26px; font-weight: bold;">Новости</h4>
+
+<div class="border2"></div>
+
+
+@foreach (var news in Model.News)
+{    
+    <div style="margin-bottom: 20px;">
+        <p style="color: #03a0cd; font-weight: bold;">@Convert.ToDateTime(news.CreateDate).ToString("dd.MM.yyyy")</p>
+        <a href="@Url.Content(string.Format("~/news/{0}", news.TitleUrl))">
+            <p style="font-weight: bold; color: black;">@news.Title</p>
+        </a>
+        <p>
+            @news.ShortBody
+        </p>
+    </div>
+}
+@if (Model.Paging == true)
+{
+    <div style="margin-left: 220px;" class="col-xs-12">@Html.PagedListPager(Model.News, page => Url.Action("News", new { page }))</div>
+}
+
+<script>
+    $(window).load(function () {
+        $("#newsLinkText").css("color", "#03a0cd");
+        $("#newsLinkDiv").addClass("mainMenuLiBottomBlock");
+    });
+</script>

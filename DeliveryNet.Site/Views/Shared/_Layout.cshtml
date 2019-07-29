@@ -1,0 +1,260 @@
+﻿
+@using Delivery.ViewModels.Home
+@model Delivery.ViewModels.Shared.LayoutViewModel
+@{
+    var title = Model.MainTitle;
+    if (!string.IsNullOrEmpty(ViewBag.Title))
+    {
+        title = ViewBag.Title;
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="e132201d78c0ee56" />
+    <meta name="keywords" content="перевозки, груз, склад, курьер, транспорт, дешевая доставка, доставка, траспортировка, логистика, автомобильные перевозки, транспортные услуги, сопровождение грузов">
+    <meta property="og:image" itemprop="image primaryImageOfPage" content="http://grundex.by/content/fon.png" />
+    <meta property="og:description" content="Grundex | Grundex - Движение вперед, внимание к деталям." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://grundex.by" />
+
+    <title>@(title + " | " + Model.Slogan)</title>
+    <link rel="icon" type="image/png" href="~/Content/favicon.png" />
+    @{ Layout = null; }
+    @Styles.Render("~/Content/bootstrap.min.css")
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/media.css")
+    @Styles.Render("~/Content/NewDesign2.css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/Scripts/mask.js")
+    @Scripts.Render("~/Scripts/bootstrap.js")
+    @Scripts.Render("~/Scripts/scripts.js")
+</head>
+<body>    
+    <div style="height: 600px;">
+        <div class="windowBaseImage">
+            <div class="contain1">
+                <div style="">
+                    <div style="padding-top: 30px;">
+                        <div class="" style="display: inline-block;">
+                            <a href="~/">
+                                <div class="siteLogo" style="display: inline-block;">
+
+                                </div>
+                            </a>
+                            <div style="font: -webkit-small-control; margin-top: 15px;">
+
+                                <span>@Html.ActionLink("Регистрация", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink", style = "color: #bababa;" })</span>
+
+                                <span style="margin: 0px 10px 0px 10px; color: grey;"> | </span>
+                                <a href="@string.Format("http://{0}", Model.CabinetLink)" id="dashboardLink">
+                                    <span style="color: red;">Кабинет</span>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="mainMenu" style="display: inline-block; color: #bababa;">
+                            <ul>
+                                <li>
+                                    <a href="~/">
+                                        <div class="mainMenuLiHeader" id="mainLinkText">
+                                            <span>ГЛАВНАЯ</span>
+                                        </div>
+                                        <div class="mainMenuLiBottom" id="mainLinkDiv">
+
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/city">
+                                        <div class="mainMenuLiHeader" id="citiesLinkText">
+                                            <span>ГОРОДА ДОСТАВКИ</span>
+                                        </div>
+                                        <div class="mainMenuLiBottom" id="citiesLinkDiv">
+
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/news">
+                                        <div class="mainMenuLiHeader" id="newsLinkText">
+                                            <span>НОВОСТИ</span>
+                                        </div>
+                                        <div class="mainMenuLiBottom" id="newsLinkDiv">
+
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/contacts">
+                                        <div class="mainMenuLiHeader" id="contactsLinkText">
+                                            <span>КОНТАКТЫ</span>
+                                        </div>
+                                        <div class="mainMenuLiBottom" id="contactsLinkDiv">
+
+                                        </div>
+                                    </a>
+                                </li>
+                                <li style="display: none;">
+                                    <a href="~/">
+                                        <div class="mainMenuLiHeader" id="reviewsLinkText">
+                                            <span>ОТЗЫВЫ</span>
+                                        </div>
+                                        <div class="mainMenuLiBottom" id="reviewsLinkDiv">
+
+                                        </div>
+                                    </a>
+                                </li>
+                                <li style="display: none;">
+                                    <a href="~/">
+                                        <div class="mainMenuLiHeader" id="helpLinkText">
+                                            <span>ПОМОЩЬ</span>
+                                        </div>
+                                        <div class="mainMenuLiBottom" id="helpLinkDiv">
+
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div style="float: right;">
+                    <div class="mainContacts" style="">
+                        <div class="TelefonAddress" style="display: inline-block;">
+                            <a href="tel:+375293192551">
+                                <div style="width: 100%; height: 33px;"></div>
+                            </a>
+                            <a href="~/contacts">
+                                <div style="width: 220px; float: right; height: 24px;"></div>
+                            </a>
+                        </div>
+                        <a href="viber://add?number=375293192551" style="margin-left: 15px; position: absolute; display: inline-block;">
+                            <div class="viber">
+
+                            </div>
+                        </a>
+                        <a href="http://telegram.me/grundexby" style="margin-left: 45px; position: absolute; display: inline-block;">
+                            <div class="telegram">
+
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="slogan" style="margin-top: 320px;">
+
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>    
+
+    <div class="windowAllWidth2" style="">
+        <div class="backgroundGradient">
+
+        </div>
+        <div class="contain2" style="height: 100%; margin: auto; position: relative; top: -150px;">
+            <div class="mainContentLeft">                
+                <div style="position: relative;">
+                    @Html.Partial("_CheckStatus", new CityViewModel())
+                </div>
+                <div style="padding-top: 30px;">
+                    @Html.Partial("_CheckStatusById", new CheckTicketStatusModel())
+                </div>
+                <div style="margin-top: 30px;">
+                    @{Html.RenderAction("StreamTwoNews", "News");}
+                </div>
+            </div>
+            <div class="mainContentRight">
+                @RenderBody()
+            </div>
+        </div>        
+    </div>
+
+    <div style="width: 100%; height: 360px;  background-color: #171616; bottom: 0px;">
+        <div class="contain3" style="height: 100%;">
+            <div style="display: inline-block; width: 33.3%; vertical-align: top;">
+                <div style="font-size: 20px; color: #d5d6d6; margin: 25px 0px 20px;">
+                    <b>Контакты</b>
+                </div>
+                <div style="font-size: 16px;">
+                    <div style="height: 30px;">
+                        <p style="display: inline-block; vertical-align: bottom; margin-bottom: 18px; color: grey;">+375 (29) </p>
+                        <span style="display: inline-block; vertical-align: bottom; margin-bottom: 18px; color: #d5d6d6">319-25-51</span>
+                        <a href="viber://add?number=375293192551" style="display: inline-block; margin-bottom: 10px;">
+                            <div class="viber"></div>
+                        </a>
+                        <a href="http://telegram.me/grundexby" style="display: inline-block; margin-bottom: 10px;">
+                            <div class="telegram"></div>
+                        </a>
+                    </div>
+                    <div>
+                        <p style="display: inline-block; color: grey;">+375 (33) </p>
+                        <span style="display: inline-block; color: #d5d6d6">319-25-51</span>
+                    </div>
+                </div>
+                <div style="margin-top: 20px;">
+                    <div>
+                        <p style="color: grey; display: inline-block; margin: 0px 15px 0px 0px;">Skype:    </p>
+                        <a style="color: grey; font-size: 16px;" href="@string.Format("skype:{0}?chat", Model.Skype)" rel="nofollow">@string.Format("{0}", Model.Skype)</a>
+                    </div>
+                    <div>
+                        <p style="color: grey; display: inline-block; margin-right: 13px;">E-mail:    </p>
+                        <a style="color: grey; font-size: 16px;" href="@string.Format("mailto:{0}", Model.FooterEmail)" rel="nofollow">@Model.FooterEmail</a>
+                    </div>
+                </div>
+            </div>
+            <div style="display: inline-block;  width: 33.3%; vertical-align: top;">
+                <div style="font-size: 20px; color: #d5d6d6; margin: 25px 0px 15px;">
+                    <b>Наш адрес</b>
+                </div>
+                <div style="color: grey; margin-top: 25px; font-size: 12px;">
+                    <p style="margin-bottom: 5px; text-decoration: underline;">Почтовый адрес:</p>
+                    <span>220024 Беларусь, г. Минск,</span> <br />
+                    <span>ул. Машиносроителей, д. 29, пом. 320</span>
+                </div>
+                <div style="color: grey; margin-top: 25px; font-size: 12px;">
+                    <p style="margin-bottom: 5px; text-decoration: underline;">Юридический адрес:</p>
+                    <span>222720 Беларусь, Минская обл.,</span> <br />
+                    <span>г. Дзержинск, ул. Строителей, д. 2,</span> <br />
+                    <span>ком. 2B</span>
+                </div>
+            </div>
+            <div style="display: inline-block; vertical-align: top;">
+                <div style="font-size: 20px; color: #d5d6d6; margin: 25px 0px 15px;">
+                    <b>Реквизиты</b>
+                </div>
+                <div style="color: grey; font-size: 12px;">
+                    <p style="margin-bottom: 0px;">ООО "Грундекс"</p>
+                    <p style="margin-bottom: 15px;">МФО 153001226</p>
+                    <p style="margin-bottom: 0px;">Р/с 3012011753001 в ОАО «Банк</p>
+                    <p style="margin-bottom: 20px;">БелВЭБ», г.Минск</p>
+                    <p style="color: #d5d6d6; margin-bottom: 0px;">Офис - время работы с<span style="font-size: 18px;"> 10:00 </span>до<span style="font-size: 18px;"> 17:00</span></p>
+                    <p style="color: #d5d6d6; margin-bottom: 5px;">с понедельника по пятницу</p>
+                    <p style="color: #d5d6d6; margin-bottom: 0px;">Склад - время работы с<span style="font-size: 18px;"> 14:00 </span>до<span style="font-size: 18px;"> 22:00</span></p>
+                    <p style="color: #d5d6d6; margin-bottom: 5px;">с понедельника по пятницу</p>
+                    <p style="color: #d5d6d6; margin-bottom: 0px;">Бухгалтерия - время работы с<span style="font-size: 18px;"> 14:00 </span>до<span style="font-size: 18px;"> 20:00</span></p>
+                    <p style="color: #d5d6d6; margin-bottom: 5px;">с понедельника по пятницу</p>
+                </div>
+            </div>
+            <div style="color: grey; font-size: 12px; padding-top: 30px; margin: auto; width: 330px;">
+                <span>Все права защищены  ©  Grundex.by 2014-2018</span>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+
+
+</html>
+
+<script>
+    
+</script>

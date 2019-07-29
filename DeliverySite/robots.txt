@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /Styles/
+Disallow: /UserUI/
+Disallow: /ManagerUI/
+Disallow: /WebServices/
+Sitemap: http://Delivery.by/sitemap.xml
+
+User-agent: Yandex
+Disallow: /Styles/
+Disallow: /UserUI/
+Disallow: /ManagerUI/
+Disallow: /WebServices/
+Host: Delivery.by

@@ -1,0 +1,216 @@
+﻿@using Delivery.ViewModels.Home
+@model Delivery.ViewModels.Shared.LayoutViewModel
+@{
+    var title = Model.MainTitle;
+    if (!string.IsNullOrEmpty(ViewBag.Title))
+    {
+        title = ViewBag.Title;
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="e132201d78c0ee56" />
+    <meta name="keywords" content="перевозки, груз, склад, курьер, транспорт, дешевая доставка, доставка, траспортировка, логистика, автомобильные перевозки, транспортные услуги, сопровождение грузов">
+    <title>@(title + " | " + Model.Slogan)</title>
+    <link rel="icon" type="image/png" href="~/Content/favicon.png" />
+    @{ Layout = null; }
+    @Styles.Render("~/Content/bootstrap.min.css")
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/media.css")
+    @Styles.Render("~/Content/NewDesign.css")
+    @Styles.Render("~/Content/NewDesign2.css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/Scripts/mask.js")
+    @Scripts.Render("~/Scripts/bootstrap.js")
+    @Scripts.Render("~/Scripts/scripts.js")
+
+</head>
+<body>
+    <div class="windowAllWidth1" style="height: 600px;">
+        <div class="windowBaseImage">
+            <div style="width: 1000px; margin: auto;">
+                <div style="margin-top: 30px;">
+                    <div class="siteLogo" style="display: inline-block;">
+
+                    </div>
+                    <div class="mainMenu" style="display: inline-block;">
+                        <ul>
+                            <li>
+                                <div class="mainMenuLiHeader">
+                                    <span>ГЛАВНАЯ</span>
+                                </div>
+                                <div class="mainMenuLiBottom">
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="mainMenuLiHeader">
+                                    <span>ГОРОДА ДОСТАВКИ</span>
+                                </div>
+                                <div class="mainMenuLiBottom">
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="mainMenuLiHeader">
+                                    <span>НОВОСТИ</span>
+                                </div>
+                                <div class="mainMenuLiBottom">
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="mainMenuLiHeader">
+                                    <span>КОНТАКТЫ</span>
+                                </div>
+                                <div class="mainMenuLiBottom">
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="mainMenuLiHeader">
+                                    <span>ОТЗЫВЫ</span>
+                                </div>
+                                <div class="mainMenuLiBottom">
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="mainMenuLiHeader">
+                                    <span>ПОМОЩЬ</span>
+                                </div>
+                                <div class="mainMenuLiBottom">
+
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div style="font: -webkit-small-control; margin-top: 15px;">
+                    <a>
+                        <span style="color: grey;">Регистрация</span>
+                    </a>
+                    <span style="margin: 0px 10px 0px 10px; color: grey;"> | </span>
+                    <a>
+                        <span style="color: red;">Кабинет</span>
+                    </a>
+                </div>
+            </div>    
+            <div class="mainContacts" style="position: relative; top: 60px; left: 850px;">
+                <div class="TelefonAddress" style="display: inline-block;">
+
+                </div>  
+                <a href="" style="margin-left: 15px; position: absolute; display: inline-block;">
+                    <div class="viber">
+                        
+                    </div>
+                </a>                
+                <a href="" style="margin-left: 45px; position: absolute; display: inline-block;">
+                    <div class="telegram">
+                        
+                    </div>     
+                </a>
+                           
+            </div>     
+            <div class="slogan" style="position: relative; top: 290px; left: 850px;">
+
+            </div>
+        </div>
+    </div>
+
+    <div class="windowAllWidth2">
+        <div style="height: 100%; width: 1000px; margin: auto;">
+            <div class="mainContentLeft">
+                <input />
+                <div>
+                    @Html.Partial("_CheckStatus", new CheckStatus())
+                </div>
+                <div>
+                    @Html.Partial("_CheckStatusById", new CheckTicketStatusModel())
+                </div>
+                <div>
+                    @{Html.RenderAction("Stream", "News");}
+                </div>
+            </div>
+            <div class="mainContent">
+
+            </div>
+        </div>
+    </div>
+    
+    <div style="width: 100%; height: 340px;  background-color: #171616; bottom: 0px;">
+        <div style="height: 100%; width: 1000px; margin: auto;">
+            <div style="display: inline-block; width: 33.3%; vertical-align: top;">
+                <div style="font-size: 24px; color: #d5d6d6; margin: 25px 0px 15px;">
+                    <b>Контакты</b> 
+                </div>
+                <div style="font-size: 20px;">
+                    <div style="height: 30px;">
+                        <p style="display: inline-block; vertical-align: bottom; margin-bottom: 18px; color: grey;">+375 (29) </p>
+                        <span style="display: inline-block; vertical-align: bottom; margin-bottom: 18px; color: #d5d6d6">319-25-51</span>
+                        <a style="display: inline-block; margin-bottom: 10px;">
+                            <div class="viber"></div> 
+                        </a>
+                        <a style="display: inline-block; margin-bottom: 10px;">
+                            <div class="telegram"></div>
+                        </a>
+                    </div>
+                    <div>
+                        <p style="display: inline-block; color: grey;">+375 (33) </p>
+                        <span style="display: inline-block; color: #d5d6d6">319-25-51</span>
+                    </div>                    
+                </div>
+                <div style="margin-top: 20px;">
+                    <div>
+                        <p style="color: grey; display: inline-block; margin: 0px 15px 0px 0px;">Skype:    </p>
+                        <a style="color: grey; font-size: 18px;" href="@string.Format("skype:{0}", Model.Skype)" rel="nofollow">@string.Format("{0}", Model.Skype)</a>
+                    </div>
+                    <div>
+                        <p style="color: grey; display: inline-block; margin-right: 13px;">E-mail:    </p>
+                        <a style="color: grey; font-size: 18px;" href="@string.Format("mailto:{0}", Model.FooterEmail)" rel="nofollow">@Model.FooterEmail</a>
+                    </div>
+                </div>
+            </div>
+            <div style="display: inline-block;  width: 33.3%; vertical-align: top;">
+                <div style="font-size: 24px; color: #d5d6d6; margin: 25px 0px 15px;">
+                    <b>Наш адрес</b>
+                </div>
+                <div style="color: grey; margin-top: 25px; font-size: 15px;">
+                    <p style="margin-bottom: 5px; text-decoration: underline;">Почтовый адрес:</p>
+                    <span>220024 Беларусь, г. Минск,</span> <br />
+                    <span>пер. Промышленный, д. 14 пом. 6</span>
+                </div>
+                <div style="color: grey; margin-top: 25px; font-size: 15px;">
+                    <p style="margin-bottom: 5px; text-decoration: underline;">Юридический адрес:</p>
+                    <span>222720 Беларусь, Минская обл.,</span> <br />
+                    <span>г. Дзержинск, ул. Строителей, д. 2,</span> <br />
+                    <span>ком. 2B</span>
+                </div>
+            </div>
+            <div style="display: inline-block; vertical-align: top;">
+                <div style="font-size: 24px; color: #d5d6d6; margin: 25px 0px 15px;">
+                    <b>Реквизиты</b>
+                </div>
+                <div style="color: grey; font-size: 15px;">
+                    <p style="margin-bottom: 0px;">ООО "Грундекс"</p>
+                    <p style="margin-bottom: 15px;">МФО 153001226</p>
+                    <p style="margin-bottom: 0px;">Р/с 3012011753001 в ОАО «Банк</p>
+                    <p style="margin-bottom: 20px;">БелВЭБ», г.Минск</p>
+                    <p style="color: #d5d6d6; margin-bottom: 0px;">РАБОТАЕМ С<span style="font-size: 18px;"> 14:00 </span>ДО<span style="font-size: 18px;"> 23:00</span></p>
+                    <p>(склад и офис)</p>
+                </div>                
+            </div>
+            <div style="color: grey; font-size: 15px; margin-top: 30px; padding-left: 300px;">
+                <span>Все права защищены  ©  Grundex.by 2014-2017</span>
+            </div>
+        </div>
+    </div>
+    
+    
+</body>
+</html>
+

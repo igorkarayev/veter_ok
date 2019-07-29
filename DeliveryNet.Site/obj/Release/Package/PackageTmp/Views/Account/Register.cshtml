@@ -1,0 +1,19 @@
+﻿@model Delivery.ViewModels.Account.AccountViewModel
+@{
+    ViewBag.Title = (Model.PageInfo != null) ? Model.PageInfo.PageTitle : "";
+}
+<div>
+    @if (Model.PageInfo != null) { 
+        @Html.Raw(Model.PageInfo.Content)
+    }
+
+    <span class="error">@Html.Raw(ViewData["ErrorMessage"])</span>
+    @{
+        Html.RenderPartial("_RegisterForm", Model.UserModel);
+    }
+</div>
+<script>
+    $(function() {
+        $(".register a").addClass("selected");
+    })
+</script>

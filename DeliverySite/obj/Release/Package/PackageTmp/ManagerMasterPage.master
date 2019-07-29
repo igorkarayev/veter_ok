@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" Inherits="Delivery.ManagerMasterPage" AutoEventWireup="true"%>
+<%@ Import Namespace="System.Web.Optimization" %>
+<%@ Import Namespace="Delivery.BLL.Helpers" %>	
+<%@ Register TagName="MainMenu" TagPrefix="grb" src="~/ManagerUI/Controls/MainMenu.ascx" %>
+<!DOCTYPE html>
+<html>
+	<head id="Head1" runat="server">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title></title>
+		<%: Styles.Render("~/styles/manager") %>
+		<%: Styles.Render("~/styles/jquery") %>
+		<%: Styles.Render("~/styles/jquery-add") %>
+		<link rel="icon" type="image/png" href="<%=ResolveClientUrl(string.Format("~/Styles/Images/favicons/{0}", BackendHelper.TagToValue("favicon_file_name"))) %>" />
+		<%: Scripts.Render("~/js/jquery") %> <!-- загружить всегда первым -->
+		<script src='<%=ResolveClientUrl("~/Scripts/CustomScripts/ajax-save-functions.js") %>' ></script>
+		<script src='<%=ResolveClientUrl("~/Scripts/CustomScripts/ajax-load-functions.js") %>' ></script>
+	</head>
+	<body>
+		<form id="Main" runat="server" action="#">
+			<div id="rightcolManager">
+				<div class="rightcol">
+					<div class="container">
+						<grb:MainMenu id="MainMenu" runat="server" />
+					</div>
+				</div>
+			</div>
+
+			<div class="centercol container">
+				<div style="padding: 20px;">
+					<asp:ContentPlaceHolder ID="MainContent" runat="server" />
+				</div>
+			</div>
+            
+            <div class="container footer">
+                <div class="counter">
+                    <!--LiveInternet counter><script type="text/javascript">
+                        document.write("<a href='//www.liveinternet.ru/click' "+
+                        "target=_blank><img src='//counter.yadro.ru/hit?t14.9;r"+
+                        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                        ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                        ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                        "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                        " часа, посетителей за 24 часа и за сегодня' "+
+                        "border='0' width='88' height='31'><\/a>")
+                    </script><!--/LiveInternet-->
+                </div>
+            </div>
+		</form>
+		
+		<div id="unreadNews" style="display: none;">
+				<div id="unreadNews-close">х</div>
+				<div id="unreadNews-content">
+					<div class="popupNotReadNews-main-title">У вас есть непрочитанные новости (<asp:Label runat="server" ID="lblUnreadNewsCount"></asp:Label>)</div>
+					<asp:ListView ID="lvNotReadNews" runat="server">
+						<ItemTemplate>
+							<div class="popupNotReadNews">
+								<div class="popupNotReadNews-date"><%# Convert.ToDateTime(Eval("CreateDate").ToString()).ToString("dd.MM.yyyy")%></div>
+								<div class="popupNotReadNews-title">
+									<a href="<%# String.Format("Menu/NewsFeed/NewsFromFeedView.aspx?title={0}", Eval("TitleUrl").ToString()) %>">
+										<%# Eval("Title")%>
+									</a>
+								</div>
+							</div>
+						</ItemTemplate>
+						<LayoutTemplate>
+							<div id="ItemPlaceholder" runat="server"> </div>
+						</LayoutTemplate>
+					</asp:ListView>
+				</div>
+			</div>
+
+		<!-- отложенная загрузка скриптов -->
+		<%: Scripts.Render("~/js/jquery-ui") %> <!-- загружить всегда после ~/js/jquery -->
+		<%: Scripts.Render("~/js/jquery-add") %>
+		<%: Scripts.Render("~/js/custom-scripts") %>
+		<%: Scripts.Render("~/js/jquery-alerts") %>
+		
+		<script>
+			var haveUnreadNews = <%= HaveUnreadNews %>;
+			$(function () {
+				$("#unreadNews-close").click(function () {
+					$("#unreadNews").hide();
+				});
+
+				if ((typeof unreadNewsNotDisplay === 'undefined' || unreadNewsNotDisplay != true) &&  haveUnreadNews) {
+					$("#unreadNews").show();
+				}
+			});
+		</script>
+
+	</body>
+</html>

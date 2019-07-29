@@ -1,0 +1,91 @@
+﻿@using DeliveryNet.Data
+@model Delivery.ViewModels.Home.CityViewModel
+
+<h4>Cтоимость доставки</h4>
+@using (Html.BeginForm("CheckStatus", "Home", FormMethod.Post, new { role = "form" }))
+{
+    <div class="border1">
+
+    </div>
+    <div>
+        <div class="checkCity">
+            <input class="inputSite" style="width: 100%;" id="CityLeft" name="CityLeft" type="text" placeholder="Например, Витебск" />
+            <input type="hidden" id="CityIdLeft" name="Id" />
+            <input type="hidden" id="CityRegionIdLeft" name="RegionId" />
+            <input type="hidden" id="CityValueLeft" name="Value" />
+            <input type="hidden" id="CityDaysLeft" name="Days" />
+        </div>
+
+        <div class="checkStatus">
+            <input class="redButton" style="padding: 0px 30px;" type="submit" value="Рассчитать" />
+        </div>
+    </div>
+    
+    
+}
+
+<style>
+    .ui-autocomplete {
+        max-height: 300px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+</style>
+
+<script>
+    $(document).ready(function () {
+        $("#CityLeft").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "@Url.Action("AutocompleteCity", "Home")",
+                    type: "POST",
+                    dataType: "json",
+                    data: { term: document.getElementById('CityLeft').value },
+                    success: function (data) {
+                        response($.map(data, function (item) {
+                            var val = item.CityName + ', ' + item.DistrictName + ' р-н, ' + item.RegionName + ' обл. (' + item.Days + ')';
+                            var valReg = val.replace(new RegExp("(" + item.Days + ")", "gi"), '<b>$1</b>');
+                            return {
+                                label: valReg,
+                                value: val,
+                                id: item.CityId,
+                                regionid: item.RegionId,
+                                monday: item.Monday,
+                                tuesday: item.Tuesday,
+                                wednesday: item.Wednesday,
+                                thursday: item.Thursday,
+                                friday: item.Friday,
+                                saturday: item.Saturday,
+                                sunday: item.Sunday,
+                                days: item.Days                                
+                            };
+                        }))
+                    }
+                })
+            },
+            minLength: 2,
+            open: function (e, ui) {
+                var acData = $(this).data('ui-autocomplete');
+                var keywords = ui;                
+                acData
+                .menu
+                .element
+                .find('li')
+                .find('div')
+                .each(function () {
+                    var me = $(this);
+                    me.html(me.text());
+                    me.html(me.html().replace(new RegExp("(" + acData.term + ")", "gi"), '<b>$1</b>'));
+                 });
+             },
+            close: function () { },
+            focus: function (event, ui) { },
+            select: function (event, ui) {                               
+                document.getElementById('CityIdLeft').value = ui.item.id;
+                document.getElementById('CityRegionIdLeft').value = ui.item.regionid;
+                document.getElementById('CityValueLeft').value = ui.item.value;
+                document.getElementById('CityDaysLeft').value = ui.item.days;
+            }
+        });
+    })
+</script>

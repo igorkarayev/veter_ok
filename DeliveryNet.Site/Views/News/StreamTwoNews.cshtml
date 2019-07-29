@@ -1,0 +1,67 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model Delivery.ViewModels.News.StreamViewModel
+
+<h4>Новости</h4>
+
+<div class="border1"></div>
+<div>
+
+</div>
+@if (Model.News != null)
+{
+    if (Model.News[0] != null)
+    {
+        <div class="firstNews">
+            <p style="color: #03a0cd; font-weight: bold;">@Convert.ToDateTime(Model.News[0].CreateDate).ToString("dd.MM.yyyy")</p>
+            <a href="@Url.Content(string.Format("~/news/{0}", Model.News[0].TitleUrl))">
+                <p style="font-weight: bold; color: black;">@Model.News[0].Title</p>
+            </a>
+            <p>
+                @Model.News[0].ShortBody
+            </p>
+        </div>
+        <div class="borderNews">
+
+        </div>
+    }
+
+    if (Model.News[1] != null)
+    {
+        <div class="secondNews">
+            <p style="color: #03a0cd; font-weight: bold;">@Convert.ToDateTime(Model.News[1].CreateDate).ToString("dd.MM.yyyy")</p>
+            <a href="@Url.Content(string.Format("~/news/{0}", Model.News[1].TitleUrl))">
+                <p style="font-weight: bold; color: black;">@Model.News[1].Title</p>
+            </a>
+            <p>
+                @Model.News[1].ShortBody
+            </p>
+        </div>
+
+        <div style="width:100%; display: grid; grid-template-columns: 1fr 80px 30px;">    
+            <div style="display:inline-block;" class="borderNews">
+
+            </div>
+            <div style="display: inline-block; vertical-align: top; text-align:center; margin-top: 9px;">
+                <a href="~/news">
+                    <div style="font-size: 10px; color: lightgray;">
+                        <span>
+                            ВСЕ НОВОСТИ
+                        </span>
+                    </div>
+                </a>
+            </div>
+            <div style="display:inline-block;" class="borderNews">
+
+            </div>
+        </div>
+    }
+}
+
+
+
+<script>
+    $(function() {
+        $(".menu_news").addClass("selected");
+    })
+</script>

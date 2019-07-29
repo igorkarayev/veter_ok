@@ -1,0 +1,585 @@
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\csc.exe
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\csc.exe.config
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\csc.rsp
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\csi.exe
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\csi.rsp
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.AppContext.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.Collections.Immutable.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.Console.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\System.Reflection.Metadata.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\vbc.exe
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\vbc.exe.config
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\vbc.rsp
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe
+D:\gruzoboz-develop\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe.config
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Site.dll.config
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Site.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Site.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Antlr3.Runtime.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNET.Core.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Data.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Interfaces.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Services.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\EntityFramework.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\EntityFramework.SqlServer.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\LowercaseRoutesMVC.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Web.Helpers.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Microsoft.Web.Infrastructure.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\MySql.Data.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\MySql.Data.Entity.EF6.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\MySql.Web.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Newtonsoft.Json.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Owin.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\PagedList.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\PagedList.Mvc.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.Helpers.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.Mvc.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.Optimization.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.Razor.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.WebPages.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\System.Web.WebPages.Razor.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\WebGrease.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\WebMatrix.Data.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\WebMatrix.WebData.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\UnidecodeSharpFork.dll
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNET.Core.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Data.Context.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Data.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Interfaces.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\DeliveryNet.Services.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\Antlr3.Runtime.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\LowercaseRoutesMVC.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\bin\UnidecodeSharpFork.pdb
+D:\gruzoboz-develop\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojResolveAssemblyReference.cache
+D:\gruzoboz-develop\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.dll
+D:\gruzoboz-develop\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.pdb
+D:\Delivery\DeliveryNet.Site\bin\roslyn\csc.exe
+D:\Delivery\DeliveryNet.Site\bin\roslyn\csc.exe.config
+D:\Delivery\DeliveryNet.Site\bin\roslyn\csc.rsp
+D:\Delivery\DeliveryNet.Site\bin\roslyn\csi.exe
+D:\Delivery\DeliveryNet.Site\bin\roslyn\csi.rsp
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.AppContext.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.Collections.Immutable.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.Console.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\System.Reflection.Metadata.dll
+D:\Delivery\DeliveryNet.Site\bin\roslyn\vbc.exe
+D:\Delivery\DeliveryNet.Site\bin\roslyn\vbc.exe.config
+D:\Delivery\DeliveryNet.Site\bin\roslyn\vbc.rsp
+D:\Delivery\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe
+D:\Delivery\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe.config
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Site.dll.config
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Site.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Site.pdb
+D:\Delivery\DeliveryNet.Site\bin\Antlr3.Runtime.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNET.Core.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Data.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Interfaces.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Services.dll
+D:\Delivery\DeliveryNet.Site\bin\EntityFramework.dll
+D:\Delivery\DeliveryNet.Site\bin\EntityFramework.SqlServer.dll
+D:\Delivery\DeliveryNet.Site\bin\LowercaseRoutesMVC.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Web.Helpers.dll
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Web.Infrastructure.dll
+D:\Delivery\DeliveryNet.Site\bin\MySql.Data.dll
+D:\Delivery\DeliveryNet.Site\bin\MySql.Data.Entity.EF6.dll
+D:\Delivery\DeliveryNet.Site\bin\MySql.Web.dll
+D:\Delivery\DeliveryNet.Site\bin\Newtonsoft.Json.dll
+D:\Delivery\DeliveryNet.Site\bin\Owin.dll
+D:\Delivery\DeliveryNet.Site\bin\PagedList.dll
+D:\Delivery\DeliveryNet.Site\bin\PagedList.Mvc.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Helpers.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Mvc.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Optimization.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Razor.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.WebPages.dll
+D:\Delivery\DeliveryNet.Site\bin\System.Web.WebPages.Razor.dll
+D:\Delivery\DeliveryNet.Site\bin\WebGrease.dll
+D:\Delivery\DeliveryNet.Site\bin\WebMatrix.Data.dll
+D:\Delivery\DeliveryNet.Site\bin\WebMatrix.WebData.dll
+D:\Delivery\DeliveryNet.Site\bin\UnidecodeSharpFork.dll
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNET.Core.pdb
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Data.Context.pdb
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Data.pdb
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Interfaces.pdb
+D:\Delivery\DeliveryNet.Site\bin\DeliveryNet.Services.pdb
+D:\Delivery\DeliveryNet.Site\bin\Antlr3.Runtime.pdb
+D:\Delivery\DeliveryNet.Site\bin\LowercaseRoutesMVC.pdb
+D:\Delivery\DeliveryNet.Site\bin\LowercaseRoutesMVC.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Delivery\DeliveryNet.Site\bin\Newtonsoft.Json.xml
+D:\Delivery\DeliveryNet.Site\bin\PagedList.xml
+D:\Delivery\DeliveryNet.Site\bin\PagedList.Mvc.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Optimization.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Helpers.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Mvc.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.Razor.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.WebPages.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.xml
+D:\Delivery\DeliveryNet.Site\bin\System.Web.WebPages.Razor.xml
+D:\Delivery\DeliveryNet.Site\bin\WebMatrix.Data.xml
+D:\Delivery\DeliveryNet.Site\bin\WebMatrix.WebData.xml
+D:\Delivery\DeliveryNet.Site\bin\EntityFramework.xml
+D:\Delivery\DeliveryNet.Site\bin\EntityFramework.SqlServer.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Delivery\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Delivery\DeliveryNet.Site\bin\UnidecodeSharpFork.pdb
+D:\Delivery\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojResolveAssemblyReference.cache
+D:\Delivery\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.dll
+D:\Delivery\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\csc.exe
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\csc.exe.config
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\csc.rsp
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\csi.exe
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\csi.rsp
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.AppContext.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Collections.Immutable.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Console.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Reflection.Metadata.dll
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\vbc.exe
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\vbc.exe.config
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\vbc.rsp
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe
+D:\DeliverySite\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe.config
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Site.dll.config
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Site.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Site.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\Antlr3.Runtime.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNET.Core.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Interfaces.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Services.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliverySite.dll
+D:\DeliverySite\DeliveryNet.Site\bin\EntityFramework.dll
+D:\DeliverySite\DeliveryNet.Site\bin\EntityFramework.SqlServer.dll
+D:\DeliverySite\DeliveryNet.Site\bin\LowercaseRoutesMVC.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Web.Helpers.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Web.Infrastructure.dll
+D:\DeliverySite\DeliveryNet.Site\bin\MySql.Data.dll
+D:\DeliverySite\DeliveryNet.Site\bin\MySql.Data.Entity.EF6.dll
+D:\DeliverySite\DeliveryNet.Site\bin\MySql.Web.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Newtonsoft.Json.dll
+D:\DeliverySite\DeliveryNet.Site\bin\Owin.dll
+D:\DeliverySite\DeliveryNet.Site\bin\PagedList.dll
+D:\DeliverySite\DeliveryNet.Site\bin\PagedList.Mvc.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Helpers.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Mvc.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Optimization.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Razor.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.dll
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Razor.dll
+D:\DeliverySite\DeliveryNet.Site\bin\WebGrease.dll
+D:\DeliverySite\DeliveryNet.Site\bin\WebMatrix.Data.dll
+D:\DeliverySite\DeliveryNet.Site\bin\WebMatrix.WebData.dll
+D:\DeliverySite\DeliveryNet.Site\bin\UnidecodeSharpFork.dll
+D:\DeliverySite\DeliveryNet.Site\bin\ExcelLibrary.dll
+D:\DeliverySite\DeliveryNet.Site\bin\CKEditor.NET.dll
+D:\DeliverySite\DeliveryNet.Site\bin\CodeKicker.BBCode.dll
+D:\DeliverySite\DeliveryNet.Site\bin\UnidecodeSharp.dll
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNET.Core.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.Context.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Interfaces.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Services.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\DeliverySite.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\Antlr3.Runtime.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\LowercaseRoutesMVC.pdb
+D:\DeliverySite\DeliveryNet.Site\bin\LowercaseRoutesMVC.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Newtonsoft.Json.xml
+D:\DeliverySite\DeliveryNet.Site\bin\PagedList.xml
+D:\DeliverySite\DeliveryNet.Site\bin\PagedList.Mvc.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Optimization.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Helpers.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Mvc.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.Razor.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.xml
+D:\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Razor.xml
+D:\DeliverySite\DeliveryNet.Site\bin\WebMatrix.Data.xml
+D:\DeliverySite\DeliveryNet.Site\bin\WebMatrix.WebData.xml
+D:\DeliverySite\DeliveryNet.Site\bin\EntityFramework.xml
+D:\DeliverySite\DeliveryNet.Site\bin\EntityFramework.SqlServer.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DeliverySite\DeliveryNet.Site\bin\UnidecodeSharpFork.pdb
+D:\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojResolveAssemblyReference.cache
+D:\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.dll
+D:\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\csc.exe
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\csc.exe.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\csc.rsp
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\csi.exe
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\csi.rsp
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.AppContext.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Console.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\vbc.exe
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\vbc.exe.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\vbc.rsp
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Site.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Site.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Site.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Antlr3.Runtime.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNET.Core.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Interfaces.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Services.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliverySite.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\EntityFramework.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\LowercaseRoutesMVC.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Web.Helpers.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\MySql.Data.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\MySql.Data.Entity.EF6.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\MySql.Web.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Newtonsoft.Json.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Owin.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\PagedList.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\PagedList.Mvc.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Helpers.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Mvc.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Optimization.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Razor.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\WebGrease.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\WebMatrix.Data.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\WebMatrix.WebData.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\UnidecodeSharpFork.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\ExcelLibrary.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\CKEditor.NET.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\CodeKicker.BBCode.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\UnidecodeSharp.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNET.Core.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.Context.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Data.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Interfaces.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Services.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliveryNet.Services.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliverySite.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\DeliverySite.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Antlr3.Runtime.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\LowercaseRoutesMVC.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\LowercaseRoutesMVC.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Newtonsoft.Json.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\PagedList.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\PagedList.Mvc.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Optimization.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Helpers.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Mvc.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.Razor.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\WebMatrix.Data.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\WebMatrix.WebData.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\EntityFramework.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\bin\UnidecodeSharpFork.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojResolveAssemblyReference.cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csproj.CoreCompileInputs.cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojResolveAssemblyReference.cache
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\csc.exe
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\csc.exe.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\csc.rsp
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\csi.exe
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\csi.rsp
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.AppContext.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.Console.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\vbc.exe
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\vbc.exe.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\vbc.rsp
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Site.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Site.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Site.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Antlr3.Runtime.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Calabonga.Xml.Exports.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\CaptchaMvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNET.Core.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Interfaces.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Services.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\EntityFramework.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\LowercaseRoutesMVC.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Web.Helpers.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\MySql.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\MySql.Data.Entity.EF6.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\MySql.Web.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Newtonsoft.Json.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Owin.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\PagedList.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\PagedList.Mvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Recaptcha.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\reCAPTCHA.MVC.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Helpers.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Mvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Optimization.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.WebPages.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\WebGrease.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\WebMatrix.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\WebMatrix.WebData.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\UnidecodeSharpFork.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ClosedXML.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelLibrary.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\CKEditor.NET.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\CodeKicker.BBCode.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelDataReader.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\EPPlus.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\UnidecodeSharp.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelDataReader.DataSet.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DocumentFormat.OpenXml.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelNumberFormat.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\FastMember.Signed.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNET.Core.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Data.Context.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Data.Context.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Data.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Data.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Interfaces.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Interfaces.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliverySite.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Antlr3.Runtime.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\CaptchaMvc.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\CaptchaMvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\LowercaseRoutesMVC.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\LowercaseRoutesMVC.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Newtonsoft.Json.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\PagedList.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\PagedList.Mvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Recaptcha.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Optimization.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Helpers.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Mvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.WebPages.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\WebMatrix.Data.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\WebMatrix.WebData.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\EntityFramework.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\UnidecodeSharpFork.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ClosedXML.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ClosedXML.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelDataReader.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\EPPlus.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelDataReader.DataSet.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DocumentFormat.OpenXml.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\ExcelNumberFormat.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csproj.CopyComplete
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Services.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Site\bin\DeliveryNet.Services.dll.config
+D:\DeliverySite(26.07)\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.csprojResolveAssemblyReference.cache
+D:\DeliverySite(26.07)\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.dll
+D:\DeliverySite(26.07)\DeliveryNet.Site\obj\Debug\DeliveryNet.Site.pdb

@@ -1,0 +1,165 @@
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll.config
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.pdb
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\EntityFramework.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\MySql.Data.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.dll
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.pdb
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.pdb
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.pdb
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.pdb
+D:\gruzoboz-develop\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.pdb
+D:\gruzoboz-develop\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojResolveAssemblyReference.cache
+D:\gruzoboz-develop\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.dll
+D:\gruzoboz-develop\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.pdb
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll.config
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.pdb
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\EntityFramework.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\MySql.Data.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.dll
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.pdb
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.pdb
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.pdb
+D:\Delivery\DeliveryNet.Services\bin\Debug\EntityFramework.xml
+D:\Delivery\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Delivery\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.pdb
+D:\Delivery\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.pdb
+D:\Delivery\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojResolveAssemblyReference.cache
+D:\Delivery\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.dll
+D:\Delivery\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.pdb
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll.config
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.pdb
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\MySql.Data.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.dll
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.pdb
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.pdb
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.pdb
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.xml
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.pdb
+D:\DeliverySite\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.pdb
+D:\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojResolveAssemblyReference.cache
+D:\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.dll
+D:\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\MySql.Data.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll.config
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.pdb
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojResolveAssemblyReference.cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csproj.CoreCompileInputs.cache
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.dll
+C:\Users\user003\Downloads\DeliverySite\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.pdb
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojResolveAssemblyReference.cache
+C:\Users\user003\Desktop\delivery3\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\DeliverySite\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Services.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\Calabonga.Xml.Exports.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\CaptchaMvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliverySite.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\EntityFramework.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\Recaptcha.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.Optimization.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.Mvc.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ClosedXML.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelLibrary.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\CKEditor.NET.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\MySql.Data.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\CodeKicker.BBCode.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelDataReader.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\EPPlus.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\UnidecodeSharp.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.WebPages.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelNumberFormat.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\FastMember.Signed.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.Context.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Data.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNet.Interfaces.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliverySite.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliverySite.dll.config
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\CaptchaMvc.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\CaptchaMvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\EntityFramework.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\Recaptcha.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DeliveryNET.Core.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.Optimization.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.Mvc.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ClosedXML.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ClosedXML.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelDataReader.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\EPPlus.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.WebPages.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\UnidecodeSharpFork.pdb
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\ExcelNumberFormat.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csproj.CopyComplete
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.dll
+C:\Users\roman\source\repos\DeliverySite(26.07) — копия\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.pdb
+D:\DeliverySite(26.07)\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.csprojResolveAssemblyReference.cache
+D:\DeliverySite(26.07)\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.dll
+D:\DeliverySite(26.07)\DeliveryNet.Services\obj\Debug\DeliveryNet.Services.pdb

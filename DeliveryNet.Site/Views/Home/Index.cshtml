@@ -1,0 +1,112 @@
+﻿@using PagedList.Mvc
+@model Delivery.ViewModels.Home.IndexViewModel 
+
+<div>
+    <h4>
+        Профессиональная курьерская служба
+    </h4>
+    <div class="border2" style="">
+
+    </div>
+
+    <div>
+        @Html.Raw(Model.PageInfo.Content)
+    </div>
+
+    <div>
+        <div class="mainPicture1" style="">
+
+        </div>
+        <div class="mainPictureText">
+            <div style="margin-bottom: 10px;">
+                <span style="color: #03a0cd; font-weight: bold;">
+                    ВЫГОДНЫЕ ТАРИФЫ
+                </span>
+            </div>
+            <span>
+                Стоимость доставки грузов от 6.5 рублей. Гибкая система 
+            </span>
+            <br />
+            <span>
+                скидок для постоянный клиентов.
+            </span>
+        </div>
+    </div>
+    <div class="borderNews">
+
+    </div>
+    <div>
+        <div class="mainPicture2" style="">
+
+        </div>
+        <div class="mainPictureText">
+            <div style="margin-bottom: 10px;">
+                <span style="color: #03a0cd; font-weight: bold;">
+                    СОПРОВОЖДЕНИЕ ДОСТАВКИ
+                </span>
+            </div>
+            <span>
+                Наши диспетчеры заранее уведомляют получателя о 
+            </span>
+            <br />
+            <span>
+                времени доставки и следят за ее удачным завершением.
+            </span>
+        </div>
+    </div>
+    <div class="borderNews">
+
+    </div>
+    <div>
+        <div class="mainPicture3" style="">
+
+        </div>
+        <div class="mainPictureText">
+            <div style="margin-bottom: 10px;">
+                <span style="color: #03a0cd; font-weight: bold;">
+                    ОНЛАЙН СОПРОВОЖДЕНИЕ ЗАЯВОК
+                </span>                
+            </div>            
+            <span>
+                Для вас личный кабинет с возможностью онлайн 
+            </span>
+            <br />
+            <span>
+                заполнения заявок и полным отчетом по доставкам.
+            </span>
+        </div>
+    </div>
+    <div class="borderNews">
+
+    </div>
+    <div>
+        <div class="mainPicture4" style="">
+
+        </div>
+        <div class="mainPictureText">
+            <div style="margin-bottom: 10px;">
+                <span style="color: #03a0cd; font-weight: bold;">
+                    ДОСТАВКА ПО ВСЕЙ БЕЛАРУСИ
+                </span>   
+            </div>                     
+            <span>
+                Осуществляем доставку грузов по всей Беларуси 
+            </span>
+            <br />
+            <span>
+                собственной курьерской службой.
+            </span>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function() {
+        $(".menu_index").addClass("selected");
+    })
+
+    $(document).ready(function () {
+        $("#mainLinkText").css("color", "#03a0cd");
+        $("#mainLinkDiv").addClass("mainMenuLiBottomBlock");
+    });
+</script>

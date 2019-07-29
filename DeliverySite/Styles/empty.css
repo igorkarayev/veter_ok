@@ -1,0 +1,150 @@
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Open Sans'), local('Open Sans'), url(../Styles/Fonts/Open-Sans.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans'), local('Open Sans'), url(../Styles/Fonts/Open-Sans-bold.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 500;
+	src: local('Open Sans'), local('Open Sans'), url(../Styles/Fonts/Open-Sans-italic.ttf) format('truetype');
+}
+
+body {
+	width: 100%;
+	font-family: 'Open Sans';
+	color: #333;
+}
+
+.container {
+	width: 400px;
+	margin: 0 auto;
+	padding: 20px 40px;
+	margin-top: 10px;
+}
+
+.login-title {
+	font-size: 32px;
+	margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+hr {
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	border-image: none;
+	border-style: solid none none;
+	border-width: 1px 0 0;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	border-color: #0c6792 !important;
+}
+
+.btn-default {
+	background-color: #0c6792;
+	border-color: #CCCCCC;
+	color: white;
+	transition: 0.2s;
+}
+
+.btn-default:hover {
+	background-color: #0c6792;
+}
+
+.btn {
+	-moz-user-select: none;
+	background-image: none;
+	border-radius: 10px;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 1.42857;
+	margin-bottom: 0;
+	padding: 8px 12px;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;
+	border: none;
+	width: 100%;
+}
+
+.form-group {
+	margin: 20px 0 20px 0;
+}
+
+.form-control {
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+	color: #555;
+	display: block;
+	font-size: 14px;
+	height: 34px;
+	line-height: 1.42857;
+	padding: 6px 12px;
+	transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+	width: 100%;
+}
+
+.footer {
+	text-align: right;
+	font-size: 12px;
+}
+
+.footer a {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+
+.footer a:hover {
+	border-bottom: 1px solid;
+}
+
+.loginError {
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 6px 0;
+	background-color: #b22222;
+	border: none;
+	color: #fff;
+	width: 100%;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	max-height: 100px; 
+	overflow: auto;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.forgot-password {
+	border-bottom: 1px dashed;
+	text-decoration: none;
+	padding: 0 5px;
+	color: #666;
+}
+
+.forgot-password:hover {
+	border-bottom: 1px solid;
+	color: #333;
+}
