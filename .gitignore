@@ -1,0 +1,20 @@
+/DeliveryNet.Interfaces/bin
+/DeliveryNET.Core/obj
+/DeliveryNET.Core/bin
+/DeliveryNet.Data/bin
+/DeliveryNet.Data/obj
+/DeliveryNet.Data.Context/obj
+/DeliveryNet.Data.Context/bin
+/DeliveryNet.Interfaces/obj
+/DeliveryNet.Services/obj
+/DeliveryNet.Services/bin
+/DeliveryNet.Site/Service References
+/DeliveryNet.Site/App_Data
+/DeliveryNet.Site/bin
+/DeliveryNet.Site/obj
+/DeliverySite/App_Data
+/DeliverySite/bin
+/DeliverySite/obj
+/DeliverySite/ReportsArch
+/DeliveryNet.Site/*.zip
+/.vs
