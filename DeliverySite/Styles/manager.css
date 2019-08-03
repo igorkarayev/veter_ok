@@ -30,10 +30,14 @@ body {
 	background-repeat: no-repeat;
 }
 
-.container{
-	width: 1170px;
-	margin-left: auto;
-	margin-right: auto;  
+#rightcolManager .container {
+    width: 1170px;
+}
+ 
+.container {
+    /*width: 1170px;*/
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
@@ -546,13 +550,13 @@ input.searchField {
  }
 
 .floatMenu {
-	margin-left: -25px;
-	padding: 10px !important;
-	text-align: right;
-	width: 985px;
+    right: 25px;
+    padding: 10px !important;
+    text-align: right;
+    width: 985px;
     border-bottom: #0c6792 2px solid !important;
-	border-right: #0c6792 2px solid !important;
-	background-color: #0c6792 !important;
+    border-right: #0c6792 2px solid !important;
+    background-color: #0c6792 !important;
 }
 
 .floatMenuLeft {
@@ -693,8 +697,16 @@ input.searchField {
 	background-color: #FFC4AD !important;
 }
 
-.orangeText{
-	color: darkorange;
+.orangeText {
+    color: darkorange;
+}
+
+.purpleRow {
+    background-color: mediumorchid !important;
+}
+
+.brownRow {
+    background-color: sandybrown !important;
 }
 
 .phonedRow{

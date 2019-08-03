@@ -34,7 +34,7 @@ namespace Delivery.BLL.StaticMethods
             return match.Success;
         }
 
-        public static void MailSend(Int32 mailId, String emailTo, String replaceThis, String replaceWithThat)
+        public static void MailSend(Int32 mailId, String emailTo, String replaceThis, String replaceWithThat, bool async = false)
         {
             var message = new MailMessage
             {
@@ -57,8 +57,11 @@ namespace Delivery.BLL.StaticMethods
                 message.Subject = "[" + BackendHelper.TagToValue("server_name") + "] " + mail.Title;
                 message.Body = mail.Description;
             }
-            
-            client.Send(message);
+
+            if (!async)
+                client.Send(message);
+            else
+                client.SendAsync(message, null);
         }
 
         public static void MailSend(String mailTitle, String mailSubject, String emailTo)
@@ -85,7 +88,7 @@ namespace Delivery.BLL.StaticMethods
                 client.SendAsync(message, null);
         }
 
-        public static void MailSend(String mailTitle, String mailSubject, string[] emailTo)
+        public static void MailSend(String mailTitle, String mailSubject, string[] emailTo, bool async = false)
         {
             var message = new MailMessage
             {
@@ -101,7 +104,11 @@ namespace Delivery.BLL.StaticMethods
                 return;
             message.Subject = "[" + BackendHelper.TagToValue("server_name") + "] " + mailTitle;
             message.Body = mailSubject;
-            client.SendAsync(message, null);
+
+            if (!async)
+                client.Send(message);
+            else
+                client.SendAsync(message, null);
         }
 
         public static void MailSendHTML(String mailTitle, String mailSubject, String emailTo, bool async = false)
@@ -125,7 +132,7 @@ namespace Delivery.BLL.StaticMethods
                 client.SendAsync(message, null);
         }
 
-        public static void MailSendHTML(String mailTitle, String mailSubject, string[] emailTo)
+        public static void MailSendHTML(String mailTitle, String mailSubject, string[] emailTo, bool async = false)
         {
             var message = new MailMessage
             {
@@ -143,7 +150,10 @@ namespace Delivery.BLL.StaticMethods
             message.Body = String.Format("<html><body>{0}</body></html>", mailSubject);
             message.IsBodyHtml = true;
 
-            client.Send(message);
+            if(!async)
+                client.Send(message);
+            else
+                client.SendAsync(message, null);
         }
 
         public static void MailSendHTML(String mailTitle, String mailSubject, String emailTo, String filePath, bool async = false)

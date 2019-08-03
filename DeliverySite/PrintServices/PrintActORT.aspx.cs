@@ -31,7 +31,7 @@ namespace Delivery.PrintServices
             if (!String.IsNullOrEmpty(idListString))
             {
                 var userInSession = (Users)Session["userinsession"];
-                if (userInSession != null && userInSession.Role != Users.Roles.User.ToString())
+                if (userInSession == null) //&& userInSession.Role != Users.Roles.User.ToString()
                 {
                     LabelID.Text = 1.ToString();
                 }

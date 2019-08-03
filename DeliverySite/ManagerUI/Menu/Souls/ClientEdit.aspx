@@ -133,6 +133,11 @@
 						"Красный" клиент 
 						<asp:CheckBox runat="server" ID="cbIsRedClient"/>
 					</div>
+
+                    <div class="form-group">
+						Позволить создавать заявки без проверки (api)
+						<asp:CheckBox runat="server" ID="cbIsCreateProduct"/>
+					</div>
 					
 					<div class="form-group">
 						<label>Ответственный менеджер</label>

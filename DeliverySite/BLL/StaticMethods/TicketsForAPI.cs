@@ -39,6 +39,7 @@ namespace DeliverySite.BLL.StaticMethods
 
         public List<TicketsCreateResult> CreateTickets(List<TicketToCreate> tickets, int id)
         {
+            bool canCreateProdut = false;
             List<TicketsCreateResult> result = new List<TicketsCreateResult>();
             selectProfilesDataSet = dm.QueryWithReturnDataSet(string.Format("SELECT * FROM `usersprofiles` WHERE `UserID` = {0} AND `StatusID` = 1", id)).Tables[0];
             ////////////////
@@ -67,6 +68,8 @@ namespace DeliverySite.BLL.StaticMethods
                 userDiscount = user.Discount.ToString();
             }
 
+            canCreateProdut = user.CreateProduct == 1;
+
             int num = 0;
             foreach (TicketToCreate row in tickets)
             {
@@ -85,6 +88,7 @@ namespace DeliverySite.BLL.StaticMethods
                     string selectProfileName = String.IsNullOrEmpty(rowProfile["CompanyName"].ToString())
                         ? String.Format("{0} {1}", rowProfile["FirstName"], rowProfile["LastName"])
                         : rowProfile["CompanyName"].ToString();
+                    
                     if (selectProfileName == row.ProfileName)
                     {
                         ticket.UserProfileID = Convert.ToInt32(rowProfile["ID"].ToString());
@@ -263,7 +267,7 @@ namespace DeliverySite.BLL.StaticMethods
                         var titleForCheck = new Titles();
                         titleForCheck.Name = goodDesc.Trim();
                         titleForCheck.GetByName();
-                        if (titleForCheck.ID == 0)
+                        if (titleForCheck.ID == 0 && !canCreateProdut)
                         {
                             norm = false;
                             errors.Add("неверно заполнены товары: товар не найден");

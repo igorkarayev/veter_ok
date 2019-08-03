@@ -587,6 +587,14 @@ input.searchField {
 	color: darkorange;
 }
 
+.purpleRow {
+    background-color: mediumorchid !important;
+}
+
+.brownRow {
+    background-color: sandybrown !important;
+}
+
 .phonedRow{
 	background-image: url(images/bg-line-1.png);
 }

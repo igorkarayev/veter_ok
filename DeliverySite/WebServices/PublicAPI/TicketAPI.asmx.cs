@@ -43,7 +43,6 @@ namespace DeliverySite.WebServices.PublicAPI
 
             if (ApiMethods.IsApiAuthRequest() && apiKeyExists == true)
             {
-                
                 var ticketsResult = new List<TicketsCreateResult>();
 
                 var jsReturn = new JavaScriptSerializer { MaxJsonLength = Int32.MaxValue };

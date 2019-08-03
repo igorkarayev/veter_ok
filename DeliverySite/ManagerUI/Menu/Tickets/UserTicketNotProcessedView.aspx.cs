@@ -16,6 +16,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
     {
         protected String AppKey { get; set; }
 
+        protected Roles UserRoles { get; set; }
+
         //сохранение состояния чекбосков СТАРТ
         private List<int> IDs
         {
@@ -116,7 +118,7 @@ namespace Delivery.ManagerUI.Menu.Tickets
             #region Блок доступа к странице
             var userInSession = (Users)Session["userinsession"];
             var rolesList = Application["RolesList"] as List<Roles>;
-            var currentRole = (Roles)rolesList.SingleOrDefault(u => u.Name.ToLower() == userInSession.Role.ToLower());
+            var currentRole = UserRoles = (Roles)rolesList.SingleOrDefault(u => u.Name.ToLower() == userInSession.Role.ToLower());
             if (currentRole.PageUserTicketNotProcessedView != 1)
             {
                 Response.Redirect("~/Error.aspx?id=1");
@@ -347,6 +349,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                             lblNotif.Text = "Были удалены заявки со статусом 'Не обработана'. Заявки с другими статусами удалить не возможно!";
                             lblNotif.ForeColor = Color.Red;
                         }
+
+                        chkBoxRows.Checked = false;
                     }
                 }
             }
@@ -372,6 +376,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                             ticket.Update(user.ID, OtherMethods.GetIPAddress(), "UserTicketView");
                         else //выводим все ошибки, если они есть
                             lblNotif.Text += String.Format("{0}<br/>", errorText);
+
+                        chkBoxRows.Checked = false;
                     }
                 }
             }
@@ -660,6 +666,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                                         "T.RecipientPhoneTwo, " +
                                         "T.DeliveryDate, " +
                                         "T.DeliveryCost, " +
+                                        "T.Note, " +
+                                        "T.Comment, " +
                                         "T.GruzobozCost, " +
                                         "T.PrintNakl, " +
                                         "T.PrintNaklInMap, " +

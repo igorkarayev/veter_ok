@@ -373,31 +373,29 @@ namespace Delivery.BLL.StaticMethods
                 case "2":
                 case "3":
                 case "4":
+                case "11":
                 case "19":
                     return "yellowRow";
                 case "5":
                     return "greenRow";
                 case "6":
                     return "blueRow";
+                case "7":
                 case "8":
                 case "9":
-                case "7":
                 case "10":
-                case "17":
-                case "18":
                     return "grayRow";
-                case "11":
-                    return "yellowRow";
                 case "12":
                     return "turquoiseRow";
                 case "13":
-                    return "orangeRow";
-                case "14":
-                    return "grayRow";
                 case "15":
-                    return "orangeRow";
+                    return "purpleRow";
+                case "14":
                 case "16":
                     return "orangeRow";
+                case "17":
+                case "18":
+                    return "brownRow";
                 default:
                     return "generalRow";
             }

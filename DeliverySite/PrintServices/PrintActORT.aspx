@@ -56,7 +56,7 @@
 					}
 				</style>
                 <h4 style="margin: 1cm 0cm 0.5cm 1.3cm; font-size: 16pt;">
-                    Акт передачи груза к перевозке от №<asp:Label runat="server" ID="LabelID"></asp:Label> кабинета в Грундекс
+                    Акт передачи груза к перевозке от №<asp:Label runat="server" ID="LabelID"></asp:Label> кабинета в <%= BackendHelper.TagToValue("official_name") %>
                 </h4>
 				<div style="width: 30%; padding: 5px; display: inline-block; vertical-align: top;">
 					Общие номера для справки: <b><%= BackendHelper.TagToValue("main_phones") %></b>

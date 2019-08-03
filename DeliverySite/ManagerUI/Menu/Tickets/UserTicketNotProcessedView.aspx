@@ -12,6 +12,8 @@
 <%@ Register TagPrefix="grb" TagName="SenderAddress" Src="~/ManagerUI/Controls/SenderAddress.ascx" %>
 <%@ Register TagPrefix="grb" TagName="AdditionalOptions" Src="~/ManagerUI/Controls/AdditionalOptions.ascx" %>
 <%@ Register TagPrefix="grb" TagName="KK" Src="~/ManagerUI/Controls/KK.ascx" %>
+<%@ Register TagPrefix="grb" TagName="ChangeTitle" Src="~/ManagerUI/Controls/ChangeTitle.ascx" %>
+<%@Register Tagprefix ="grb" Tagname="Comment" src="~/ManagerUI/Controls/Comment.ascx" %> 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <script type="text/javascript">
         $(function () {
@@ -292,6 +294,14 @@
                             Получатель
                         </th>
 
+                        <th class='<%# UserRoles.TableNotes == 1 ? "displayColumn" : "notDisplayColumn" %>'>
+                            Примечания
+                        </th>
+
+                        <th class='<%# UserRoles.TableNotes == 1 ? "displayColumn" : "notDisplayColumn" %>'>
+                            Комментарии
+                        </th>
+
                         <th>
                             <asp:LinkButton runat="server" Text="Дата отпр." ID="LinkButton4" CommandArgument="DeliveryDate" OnClick="lvAllTickets_OnSortingButtonClick"/>   
                         </th>
@@ -321,7 +331,7 @@
                 </table>
             </LayoutTemplate>
             <ItemTemplate>
-                <asp:TableRow id="Tr2" runat="server" CssClass='<%# String.Format("{0} {1}",OtherMethods.SpecialClientTrClass(Convert.ToInt32(Eval("UserID"))), OtherMethods.TicketColoredStatusRows("1")) %>'>
+                <asp:TableRow id="Tr2" runat="server" CssClass='<%# String.Format("{0} {1} {2}",OtherMethods.SpecialClientTrClass(Convert.ToInt32(Eval("UserID"))), OtherMethods.TicketColoredStatusRows("1"), TicketsHelper.BackgroundCheckedOutPhoned(Eval("Phoned").ToString(), Eval("CheckedOut").ToString())) %>'>
                     
                     <asp:TableCell id="Td7" runat="server">
                         <asp:CheckBox ID="cbSelect" AutoPostBack="false" runat="server" CssClass="selectItem" ViewStateMode = "Enabled"/>
@@ -407,6 +417,28 @@
                         <asp:Label ID="Label18" runat="server" Text='<%# (Eval("RecipientThirdName").ToString()) %>' /><br/>
                         <i style="font-size: 11px"><asp:Label ID="Label4" runat="server" Text='<%# (Eval("RecipientPhone").ToString().Replace("+375 ", " ")) %>' /></i><br/>
                         <i style="font-size: 11px"><asp:Label ID="Label19" runat="server" Text='<%# (Eval("RecipientPhoneTwo").ToString().Replace("+375 ", " ")) %>' /></i>
+                    </asp:TableCell>
+
+                    <asp:TableCell CssClass='<%# UserRoles.TableNotes == 1 ? "displayColumn" : "notDisplayColumn" %>' id="TableCell2" runat="server" EnableViewState="False">
+                        <div class="noteDiv">
+                            <grb:ChangeTitle 
+                            ID="ChangeTitle" 
+                            runat="server" 
+                            TicketID='<%# Eval("ID").ToString() %>'
+                            ListViewControlFullID='#ctl00_MainContent_lvAllTickets'
+                            PageName = "UserTicketView"
+                            TextTitle = '<%# Eval("Note").ToString() %>'/>
+                        </div>
+                    </asp:TableCell>
+                    
+                    <asp:TableCell CssClass='<%# UserRoles.TableComments == 1 ? "displayColumn" : "notDisplayColumn" %>' id="TableCell3" runat="server" EnableViewState="False">
+                       <grb:Comment 
+                            ID="Comment" 
+                            runat="server" 
+                            TicketID='<%# Eval("ID").ToString() %>'
+                            CommentValue='<%# Eval("Comment").ToString() %>'
+                            ListViewControlFullID='#ctl00_MainContent_lvAllTickets'
+                            PageName = "UserTicketView"/>
                     </asp:TableCell>
 
                     <asp:TableCell id="Td0" runat="server" EnableViewState="False">

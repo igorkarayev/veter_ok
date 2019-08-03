@@ -241,7 +241,7 @@ namespace Delivery.ManagerUI.Menu.Finance
             searchParametres.Add("DriverID", searchDriverIdString);
             searchParametres.Add("DeliveryDate", searchDateString);
             var searchStringPart = searchParametres.Where(searchParametre => !string.IsNullOrEmpty(searchParametre.Value)).Aggregate(searchString, (current, searchParametre) => current + searchParametre.Value + " AND ");
-            searchString = searchStringPart.Length < 4 ? "FROM tickets WHERE (StatusID = 3 OR StatusID = 5 OR StatusID = 7 OR StatusID = 12)" : String.Format("FROM tickets WHERE (StatusID = 3 OR StatusID = 5 OR StatusID = 7 OR StatusID = 12) AND {0}", searchStringPart.Remove(searchStringPart.Length - 4));
+            searchString = searchStringPart.Length < 4 ? "FROM tickets WHERE (StatusID = 3 OR StatusID = 5 OR StatusID = 7 OR StatusID = 12 OR StatusID = 17 OR StatusID = 18)" : String.Format("FROM tickets WHERE (StatusID = 3 OR StatusID = 5 OR StatusID = 7 OR StatusID = 12 OR StatusID = 17 OR StatusID = 18) AND {0}", searchStringPart.Remove(searchStringPart.Length - 4));
 
             var dm = new DataManager();
             var allAssessedWithDeliveryCostString = dm.QueryWithReturnDataSet("SELECT SUM(`AssessedCost` + `DeliveryCost`) " + searchString + " AND `AgreedCost` = 0").Tables[0].Rows[0][0].ToString();

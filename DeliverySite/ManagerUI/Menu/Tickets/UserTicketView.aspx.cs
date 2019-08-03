@@ -532,6 +532,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                             lblNotif.Text = "Были удалены заявки со статусом 'Не обработана'. Заявки с другими статусами удалить не возможно!";
                             lblNotif.ForeColor = Color.Red;
                         }
+
+                        chkBoxRows.Checked = false;
                     }
                 }
             }
@@ -555,6 +557,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                             ticket.Update(user.ID, OtherMethods.GetIPAddress(), "UserTicketView");
                         else //выводим все ошибки, если они есть
                             lblNotif.Text += String.Format("{0}<br/>", errorText);
+
+                        chkBoxRows.Checked = false;
                     }
                 }
             }
@@ -578,6 +582,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                             ticket.Update(user.ID, OtherMethods.GetIPAddress(), "UserTicketView");
                         else //выводим все ошибки, если они есть
                             lblNotif.Text += String.Format("{0}<br/>", errorText);
+
+                        chkBoxRows.Checked = false;
                     }
                 }
             }
@@ -607,6 +613,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                     {
                         var id = (HiddenField)items.FindControl("hfID");
                         idList += id.Value + "-";
+
+                        chkBoxRows.Checked = false;
                     }
                 }
                 idList = idList.Remove(idList.Length - 1);
@@ -700,6 +708,8 @@ namespace Delivery.ManagerUI.Menu.Tickets
                     {
                         var id = (HiddenField)items.FindControl("hfID");
                         idList.Add(id.Value);
+
+                        chkBoxRows.Checked = false;
                     }
                 }
 

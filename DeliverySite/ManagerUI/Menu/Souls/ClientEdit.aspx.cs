@@ -99,6 +99,7 @@ namespace Delivery.ManagerUI.Menu.Souls
                 {
                     cbIsSpecialClient.Checked = user.SpecialClient != 0;
                     cbIsRedClient.Checked = user.RedClient != 0;
+                    cbIsCreateProduct.Checked = user.CreateProduct != 0;
                     lblID.Text = user.ID.ToString();
                     lblRegistartionDate.Text = OtherMethods.DateConvert(user.CreateDate.ToString());
                     tbName.Text = user.Name;
@@ -190,6 +191,7 @@ namespace Delivery.ManagerUI.Menu.Souls
             var id = Page.Request.Params["id"];
             var isSpecialClient = cbIsSpecialClient.Checked ? 1 : 0;
             var isRedClient = cbIsRedClient.Checked ? 1 : 0;
+            var isCreateProduct = cbIsCreateProduct.Checked ? 1 : 0;
 
             var userInSession = (Users)Session["userinsession"];
 
@@ -204,6 +206,7 @@ namespace Delivery.ManagerUI.Menu.Souls
             user.SpecialClient = isSpecialClient;
             user.ContactDate = string.IsNullOrEmpty(tbContactDate.Text) ? Convert.ToDateTime("01.01.0001 0:00:00") : Convert.ToDateTime(tbContactDate.Text);
             user.RedClient = isRedClient;
+            user.CreateProduct = isCreateProduct;
             user.ManagerID = Convert.ToInt32(ddlManager.SelectedValue);
             user.StatusStady = Convert.ToInt32(ddlStatusStady.SelectedValue);
             user.SalesManagerID = Convert.ToInt32(ddlSalesManager.SelectedValue);

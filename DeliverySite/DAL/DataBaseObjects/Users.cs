@@ -200,6 +200,10 @@ namespace Delivery.DAL.DataBaseObjects
         [DataBaseGet]
         public DateTime? ActivatedDate { get; set; }
 
+        [DataBaseSet]
+        [DataBaseGet]
+        public Int32? CreateProduct { get; set; }
+
         public String RussRole { get; set; }
 
         public List<News> NotReadNews { get; set; }

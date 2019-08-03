@@ -18,12 +18,13 @@
             url: "../AppServices/MailService.asmx/WantPayment",
             data: ({
                 userid: "<%= UserID %>",
-                    appkey: "<%= AppKey %>"
-                }),
+                appkey: "<%= AppKey %>"
+            }),
             success: function (xml) {
                 var status = "no";
                 $(xml).find('string').each(function () {
                     status = $(this).text();
+                    console.log($(this));
                 });
                 if (status == "ok-now") {
                     jAlert('<center style="color: green; font-size: 14px;">Запрос на расчет успешно отправлен кассирам. ' +
