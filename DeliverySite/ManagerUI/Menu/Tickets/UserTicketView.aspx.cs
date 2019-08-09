@@ -1407,6 +1407,9 @@ namespace Delivery.ManagerUI.Menu.Tickets
             searchParametres.Add("Billed", searchBilled);
             searchParametres.Add("NotFromKalvariiskaia", searchNotFromKalvariiskaia);
 
+            //Except restatused to notprocessed
+            searchString += "not (T.`StatusID` = 1 AND T.`StatusIDOld` = 2) AND ";
+
             foreach (var searchParametre in searchParametres)
             {
                 if (!string.IsNullOrEmpty(searchParametre.Value))

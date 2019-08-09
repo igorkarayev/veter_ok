@@ -248,6 +248,7 @@
     <Content Include="Images\work.jpg" />
     <Content Include="ManagerUI\AnonymousMessage.aspx" />
     <Content Include="ManagerUI\Controls\AdditionalOptions.ascx" />
+    <Content Include="ManagerUI\Controls\ChangeAddress.ascx" />
     <Content Include="ManagerUI\Controls\ChangeTitle.ascx" />
     <Content Include="ManagerUI\Controls\CityOrder.ascx" />
     <Content Include="ManagerUI\Controls\Clients\Comment.ascx" />
@@ -1065,6 +1066,13 @@
     </Compile>
     <Compile Include="ManagerUI\Controls\AdditionalOptions.ascx.designer.cs">
       <DependentUpon>AdditionalOptions.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerUI\Controls\ChangeAddress.ascx.cs">
+      <DependentUpon>ChangeAddress.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManagerUI\Controls\ChangeAddress.ascx.designer.cs">
+      <DependentUpon>ChangeAddress.ascx</DependentUpon>
     </Compile>
     <Compile Include="ManagerUI\Controls\ChangeTitle.ascx.cs">
       <DependentUpon>ChangeTitle.ascx</DependentUpon>

@@ -33,6 +33,19 @@ namespace Delivery.BLL
                 if(String.IsNullOrEmpty(ticketId)) continue;
                 var ticket = new Tickets {ID = Convert.ToInt32(ticketId)};
                 ticket.GetById();
+                string driver_numbers = String.Empty;
+                var driver = ticket.DriverID != 0 ? new Drivers { ID = Convert.ToInt32(ticket.DriverID) } : null;
+                if (driver != null)
+                {
+                    driver.GetById();
+                    driver_numbers += driver.PhoneOne != null && driver.PhoneOne != String.Empty 
+                                        ? driver.PhoneOne
+                                        : "";
+                    driver_numbers += " " + 
+                                      driver.PhoneTwo != null && driver.PhoneTwo != String.Empty
+                                        ? driver.PhoneTwo
+                                        : "";
+                }
                 //отправляем нотификации только по заявкам в пути
                 if (ticket.StatusID != 3) continue;
                 //условия, при которых добавляем заявку в список рассылки (должна присутствовать дата с по)
@@ -47,7 +60,8 @@ namespace Delivery.BLL
                             Message = smsBody
                                 .Replace("{from}", Convert.ToDateTime(ticket.OvDateFrom).ToString("HH:mm"))
                                 .Replace("{to}", Convert.ToDateTime(ticket.OvDateTo).ToString("HH:mm"))
-                                .Replace("{id}", ticket.SecureID),
+                                .Replace("{id}", ticket.SecureID)
+                                .Replace("{numbers}", driver_numbers),
                             Sender = smsServiceSenderName
                         };
                         messageObjectList.Add(messageObject);

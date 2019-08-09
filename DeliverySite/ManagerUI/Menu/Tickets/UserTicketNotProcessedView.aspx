@@ -13,6 +13,7 @@
 <%@ Register TagPrefix="grb" TagName="AdditionalOptions" Src="~/ManagerUI/Controls/AdditionalOptions.ascx" %>
 <%@ Register TagPrefix="grb" TagName="KK" Src="~/ManagerUI/Controls/KK.ascx" %>
 <%@ Register TagPrefix="grb" TagName="ChangeTitle" Src="~/ManagerUI/Controls/ChangeTitle.ascx" %>
+<%@ Register TagPrefix="grb" TagName="ChangeAddress" Src="~/ManagerUI/Controls/ChangeAddress.ascx" %>
 <%@Register Tagprefix ="grb" Tagname="Comment" src="~/ManagerUI/Controls/Comment.ascx" %> 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <script type="text/javascript">
@@ -409,6 +410,13 @@
                         <asp:Label ID="Label21" runat="server" Text='<%# Eval("RecipientStreetPrefix") %>' />&nbsp;
                         <asp:Label ID="Label12" runat="server" Text='<%# Eval("RecipientStreet") %>' />&nbsp;
                         <asp:Label ID="Label13" runat="server" Text='<%# OtherMethods.GetRecipientAddressWithoutStreet(Eval("ID").ToString()) %>' />
+                        <grb:ChangeAddress 
+                            ID="ChangeAddress" 
+                            runat="server" 
+                            TicketID='<%# Eval("ID").ToString() %>'
+                            ListViewControlFullID='#ctl00_MainContent_lvAllTickets'
+                            PageName = "UserTicketView"
+                            />
                     </asp:TableCell>
 
                     <asp:TableCell id="Td9" runat="server" EnableViewState="False">

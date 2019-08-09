@@ -1,6 +1,7 @@
 ﻿using Delivery.BLL.Helpers;
 using Delivery.DAL.DataBaseObjects;
 using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Security.Cryptography;
@@ -59,6 +60,35 @@ namespace Delivery.BLL.StaticMethods
             if (ticket.RecipientKvartira != String.Empty && ticket.RecipientKvartira != " ")
             {
                 result += " кв." + ticket.RecipientKvartira;
+            }
+            return result;
+        }
+
+        public static Dictionary<int, string> GetRecipientAddress(string ticketId)
+        {
+            var ticket = new Tickets { ID = Convert.ToInt32(ticketId) };
+            ticket.GetById();
+            var result = new Dictionary<int, string>(5);
+
+            if (ticket.RecipientStreetPrefix != String.Empty && ticket.RecipientStreetPrefix != " ")
+            {
+                result.Add(0, ticket.RecipientStreetPrefix);
+            }
+            if (ticket.RecipientStreet != String.Empty && ticket.RecipientStreet != " ")
+            {
+                result.Add(1, ticket.RecipientStreet);
+            }
+            if (ticket.RecipientStreetNumber != String.Empty && ticket.RecipientStreetNumber != " ")
+            {
+                result.Add(2, ticket.RecipientStreetNumber);
+            }
+            if (ticket.RecipientKorpus != String.Empty && ticket.RecipientKorpus != " ")
+            {
+                result.Add(3, ticket.RecipientKorpus);
+            }
+            if (ticket.RecipientKvartira != String.Empty && ticket.RecipientKvartira != " ")
+            {
+                result.Add(4, ticket.RecipientKvartira);
             }
             return result;
         }
