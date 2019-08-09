@@ -49,49 +49,49 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:48:16</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>09/10/2013 16:29:20</publishTime>
+      <publishTime>10/09/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.pdb">
-      <publishTime>09/10/2013 16:29:20</publishTime>
+      <publishTime>10/09/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/Calabonga.Xml.Exports.dll">
       <publishTime>02/13/2012 13:22:56</publishTime>
     </File>
     <File Include="bin/CaptchaMvc.dll">
-      <publishTime>11/04/2013 13:26:52</publishTime>
+      <publishTime>04/11/2013 13:26:52</publishTime>
     </File>
     <File Include="bin/CaptchaMvc.pdb">
-      <publishTime>11/04/2013 13:26:52</publishTime>
+      <publishTime>04/11/2013 13:26:52</publishTime>
     </File>
     <File Include="bin/CKEditor.NET.dll">
-      <publishTime>11/05/2012 09:16:44</publishTime>
+      <publishTime>05/11/2012 09:16:44</publishTime>
     </File>
     <File Include="bin/ClosedXML.dll">
-      <publishTime>04/10/2018 16:30:58</publishTime>
+      <publishTime>10/04/2018 16:30:58</publishTime>
     </File>
     <File Include="bin/ClosedXML.pdb">
-      <publishTime>04/10/2018 16:30:58</publishTime>
+      <publishTime>10/04/2018 16:30:58</publishTime>
     </File>
     <File Include="bin/CodeKicker.BBCode.dll">
       <publishTime>09/16/2016 11:00:58</publishTime>
     </File>
     <File Include="bin/DeliverySite.dll">
-      <publishTime>03/08/2019 14:16:36</publishTime>
+      <publishTime>08/09/2019 03:20:55</publishTime>
     </File>
     <File Include="bin/DeliverySite.pdb">
-      <publishTime>07/17/2019 17:18:56</publishTime>
+      <publishTime>08/09/2019 03:20:55</publishTime>
     </File>
     <File Include="bin/DocumentFormat.OpenXml.dll">
-      <publishTime>01/06/2018 01:25:34</publishTime>
+      <publishTime>06/01/2018 01:25:34</publishTime>
     </File>
     <File Include="bin/EPPlus.dll">
       <publishTime>05/30/2018 20:27:38</publishTime>
     </File>
     <File Include="bin/ExcelDataReader.DataSet.dll">
-      <publishTime>02/04/2018 01:44:48</publishTime>
+      <publishTime>04/02/2018 01:44:48</publishTime>
     </File>
     <File Include="bin/ExcelDataReader.dll">
-      <publishTime>02/04/2018 01:44:46</publishTime>
+      <publishTime>04/02/2018 01:44:46</publishTime>
     </File>
     <File Include="bin/ExcelLibrary.dll">
       <publishTime>01/01/0001 00:00:00</publishTime>
@@ -100,13 +100,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/23/2017 09:21:44</publishTime>
     </File>
     <File Include="bin/FastMember.Signed.dll">
-      <publishTime>03/06/2018 05:28:04</publishTime>
+      <publishTime>06/03/2018 05:28:04</publishTime>
     </File>
     <File Include="bin/GemBox.Spreadsheet.dll">
       <publishTime>04/04/2018 14:34:32</publishTime>
     </File>
     <File Include="bin/ICSharpCode.SharpZipLib.dll">
-      <publishTime>01/03/2011 14:16:38</publishTime>
+      <publishTime>03/01/2011 14:16:38</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>07/25/2012 11:48:56</publishTime>
@@ -124,7 +124,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/14/2011 15:03:40</publishTime>
     </File>
     <File Include="bin/Recaptcha.Web.dll">
-      <publishTime>12/08/2015 12:16:06</publishTime>
+      <publishTime>08/12/2015 12:16:06</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>08/08/2012 17:58:20</publishTime>
@@ -133,7 +133,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/25/2014 17:11:36</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>02/11/2014 15:26:04</publishTime>
+      <publishTime>11/02/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
       <publishTime>08/08/2012 17:57:48</publishTime>
@@ -405,8 +405,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="ManagerUI/Controls/AdditionalOptions.ascx">
       <publishTime>06/21/2018 11:48:26</publishTime>
     </File>
+    <File Include="ManagerUI/Controls/ChangeAddress.ascx">
+      <publishTime>08/09/2019 02:29:24</publishTime>
+    </File>
     <File Include="ManagerUI/Controls/ChangeTitle.ascx">
-      <publishTime>07/17/2018 14:14:40</publishTime>
+      <publishTime>08/09/2019 00:44:07</publishTime>
     </File>
     <File Include="ManagerUI/Controls/CityOrder.ascx">
       <publishTime>06/21/2018 11:48:26</publishTime>
@@ -607,7 +610,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:48:26</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Souls/ClientEdit.aspx">
-      <publishTime>08/03/2019 01:51:23</publishTime>
+      <publishTime>08/09/2019 00:12:20</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Souls/ClientsView.aspx">
       <publishTime>06/21/2018 11:48:26</publishTime>
@@ -646,7 +649,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:48:26</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Souls/ProfileEdit.aspx">
-      <publishTime>10/04/2018 17:12:53</publishTime>
+      <publishTime>04/10/2018 17:12:53</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Souls/ProviderEdit.aspx">
       <publishTime>06/21/2018 11:48:26</publishTime>
@@ -691,10 +694,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/08/2019 13:05:16</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Tickets/UserTicketNotProcessedView.aspx">
-      <publishTime>07/31/2019 15:06:05</publishTime>
+      <publishTime>08/09/2019 02:06:29</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Tickets/UserTicketView.aspx">
-      <publishTime>07/16/2018 16:29:40</publishTime>
+      <publishTime>08/09/2019 02:31:30</publishTime>
     </File>
     <File Include="ManagerUI/Menu/Tickets/UserTicketViewMy.aspx">
       <publishTime>06/21/2018 11:48:26</publishTime>
@@ -712,13 +715,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/08/2019 02:10:07</publishTime>
     </File>
     <File Include="OtherFiles/ProfileDocs/П-Образец.docx">
-      <publishTime>10/04/2018 17:01:02</publishTime>
+      <publishTime>04/10/2018 17:01:02</publishTime>
     </File>
     <File Include="OtherFiles/ProfileDocs/Ф-образец.docx">
-      <publishTime>10/04/2018 15:55:35</publishTime>
+      <publishTime>04/10/2018 15:55:35</publishTime>
     </File>
     <File Include="OtherFiles/ProfileDocs/Ю-образец.docx">
-      <publishTime>10/04/2018 16:52:23</publishTime>
+      <publishTime>04/10/2018 16:52:23</publishTime>
     </File>
     <File Include="OtherFiles/regions.js">
       <publishTime>06/21/2018 11:48:26</publishTime>
@@ -727,7 +730,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/08/2019 02:10:06</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>10/03/2018 15:16:59</publishTime>
+      <publishTime>03/10/2018 15:16:59</publishTime>
     </File>
     <File Include="PrintServices/Controls/BoxesNumberToPril2.ascx">
       <publishTime>06/21/2018 11:48:28</publishTime>
@@ -751,7 +754,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:48:28</publishTime>
     </File>
     <File Include="PrintServices/PrintActORT.aspx">
-      <publishTime>07/31/2019 12:55:30</publishTime>
+      <publishTime>08/09/2019 00:12:20</publishTime>
     </File>
     <File Include="PrintServices/PrintActRequisites.aspx">
       <publishTime>07/14/2019 16:58:26</publishTime>
@@ -805,7 +808,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/06/2019 03:21:28</publishTime>
     </File>
     <File Include="PrintServices/PrintVinil.aspx">
-      <publishTime>07/31/2019 14:18:52</publishTime>
+      <publishTime>08/09/2019 00:12:20</publishTime>
     </File>
     <File Include="PrintServices/PrintVinilOnPaper.aspx">
       <publishTime>06/21/2018 11:48:26</publishTime>
@@ -817,13 +820,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:48:26</publishTime>
     </File>
     <File Include="query-counter.txt">
-      <publishTime>08/03/2019 01:00:42</publishTime>
+      <publishTime>08/09/2019 02:32:17</publishTime>
     </File>
     <File Include="RecaptchaNet.Readme.txt">
       <publishTime>06/21/2018 11:48:28</publishTime>
     </File>
     <File Include="Register.aspx">
-      <publishTime>05/04/2019 15:06:03</publishTime>
+      <publishTime>04/05/2019 15:06:03</publishTime>
     </File>
     <File Include="Resources/PrintResources.Designer.cs">
       <publishTime>12/06/2017 16:20:31</publishTime>
@@ -1996,7 +1999,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:49:18</publishTime>
     </File>
     <File Include="Styles/Images/bg-line-1.png">
-      <publishTime>07/31/2019 14:56:54</publishTime>
+      <publishTime>08/09/2019 00:13:56</publishTime>
     </File>
     <File Include="Styles/Images/bg-line-2.png">
       <publishTime>06/21/2018 11:49:18</publishTime>
@@ -2179,7 +2182,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:49:18</publishTime>
     </File>
     <File Include="Styles/manager.css">
-      <publishTime>08/03/2019 02:32:26</publishTime>
+      <publishTime>08/09/2019 00:12:20</publishTime>
     </File>
     <File Include="Styles/print.css">
       <publishTime>06/21/2018 11:49:18</publishTime>
@@ -2188,7 +2191,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:49:18</publishTime>
     </File>
     <File Include="Styles/user.css">
-      <publishTime>08/03/2019 02:32:21</publishTime>
+      <publishTime>08/09/2019 00:12:20</publishTime>
     </File>
     <File Include="Upload.ashx">
       <publishTime>06/21/2018 11:49:20</publishTime>
@@ -2203,7 +2206,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:49:20</publishTime>
     </File>
     <File Include="UserUI/Controls/MainMenu.ascx">
-      <publishTime>08/03/2019 14:20:07</publishTime>
+      <publishTime>08/09/2019 00:12:20</publishTime>
     </File>
     <File Include="UserUI/Default.aspx">
       <publishTime>05/08/2019 14:10:07</publishTime>
@@ -2275,7 +2278,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/21/2018 11:49:20</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/03/2019 13:36:17</publishTime>
+      <publishTime>07/14/2019 16:45:35</publishTime>
     </File>
     <File Include="WebServices/PublicAPI/CityAPI.asmx">
       <publishTime>06/21/2018 11:49:20</publishTime>

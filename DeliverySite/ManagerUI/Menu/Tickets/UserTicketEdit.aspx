@@ -6,7 +6,20 @@
 		 .autocomplete-suggestions {
 			 width: 700px !important;
 		 }
+
+         .pointer {
+             cursor: pointer;
+             border-bottom: 1px dotted;
+         }
 	</style>
+    <script>
+        showEdit = function () {
+            if ($('#changeDate span').css('display') == 'none')
+                $('#changeDate span, #changeDate input').show();
+            else
+                $('#changeDate span, #changeDate input').hide();
+        }
+    </script>
 	<div id="info"></div>
 	<div class="loginError" id="errorDiv" style="width: 90%; display: none;">
 		<asp:Label runat="server" ID="lblError" ForeColor="White"></asp:Label>
@@ -48,7 +61,7 @@
 					<span>Дата отправки:</span>
 				</td>
 				<td class="paddingTable">
-					<asp:Label ID="lblDeliveryDateStatic" runat="server"/>
+					<asp:Label ID="lblDeliveryDateStatic" runat="server" CssClass="pointer" onclick="showEdit()" title="Изменить дату отправки"/>
 				</td>
 			</tr>
 			<tr runat="server" ID="trUserAccountData">
@@ -174,12 +187,12 @@
 					<asp:TextBox ID="tbStatusDescription" runat="server" CssClass="notVisible multi-control" width="100%" TextMode="MultiLine" Rows="4" Columns="40"/>
 				</td>
 			</tr>
-			<tr>
+			<tr id="changeDate">
 				<td class="valignTable">
-					<asp:Label runat="server" CssClass="notVisible" ID="lblDeliveryDate">Введите новую дату отправки:</asp:Label>
+					<asp:Label runat="server" ID="lblDeliveryDate" CssClass="notVisible">Введите новую дату отправки:</asp:Label>
 				</td>
 				<td class="paddingTable">
-					<asp:TextBox ID="tbDeliveryDate" runat="server" Width="70px" CssClass="notVisible form-control"/>
+					<asp:TextBox ID="tbDeliveryDate" runat="server" Width="70px" CssClass="form-control notVisible"/>
 				</td>
 			</tr>
 		</table>    
